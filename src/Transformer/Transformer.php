@@ -2,14 +2,16 @@
 
 namespace Pawshake\Solr2json\Transformer;
 
-class Transformer {
+class Transformer
+{
+    const PET_BOARDING = 'pet_boarding';
+    const DOGGY_DAY_CARE = 'doggy_day_care';
+    const DOG_WALKING = 'dog_walking';
+    const HOME_VISITS = 'home_visits';
+    const SLEEPOVER = 'sleepover';
 
-    /**
-     * @param array $data
-     *
-     * @return array
-     */
-    public function transform(array $data) : array {
+    public function transform(array $data)
+    {
 
         $geocode = $data['locm_field_host_geocode'];
         $location = explode(',', $geocode[0]);
@@ -20,53 +22,43 @@ class Transformer {
         ];
 
         $services = [];
-        $ratings = [];
+        $serviceRates = [];
 
         if (isset($data['bm_field_host_pet_boarding'], $data['fts_field_host_rate_per_night']) && $data['bm_field_host_pet_boarding'][0] === 1) {
-            $services[] = Services::PET_BOARDING;
+            $services[] = self::PET_BOARDING;
             $result = $data['fts_field_host_rate_per_night'];
-            $ratings['pet_boarding'] = (float) reset($result);
+            $serviceRates['pet_boarding'] = (float) reset($result);
         }
         if (isset($data['bm_field_host_walking'], $data['fts_field_dog_walking_rate']) && $data['bm_field_host_walking'][0] === 1) {
-            $services[] = Services::DOG_WALKING;
+            $services[] = self::DOG_WALKING;
             $result = $data['fts_field_dog_walking_rate'];
-            $ratings['dog_walking'] = (float) reset($result);
+            $serviceRates['dog_walking'] = (float) reset($result);
         }
 
         if (isset($data['bm_field_host_daycare_in_my_home'], $data['fts_field_host_doggy_day_care_ra']) && $data['bm_field_host_daycare_in_my_home'][0] === 1) {
-            $services[] = Services::DOGGY_DAY_CARE;
+            $services[] = self::DOGGY_DAY_CARE;
             $result = $data['fts_field_host_doggy_day_care_ra'];
-            $ratings['doggy_day_care'] = (float) reset($result);
+            $serviceRates['doggy_day_care'] = (float) reset($result);
         }
         if (isset($data['bs_home_visits'], $data['bs_home_visits'])) {
-            $ratingFound = false;
             if (isset($data['fts_field_host_rate_one_home_vis'])) {
                 $one_visit_result = $data['fts_field_host_rate_one_home_vis'];
-                $ratings['home_visits']['one_visit'] = (float) reset($one_visit_result);
-                $ratingFound = true;
+                $serviceRates['home_visits'] = (float) ($one_visit_result);
+                $services[] = self::HOME_VISITS;
             }
 
-            if (isset($data['fts_field_host_rate_two_home_vis'])) {
-                $two_visit_result = $data['fts_field_host_rate_two_home_vis'];
-                $ratings['home_visits']['two_visit'] = (float) reset($two_visit_result);
-                $ratingFound = true;
-            }
-
-            if ($ratingFound) {
-                $services[] = Services::HOME_VISITS;
-            }
         }
         if (isset($data['bm_field_host_sleepover'], $data['fts_field_host_rate_sleepover']) && $data['bm_field_host_sleepover'][0] === 1) {
-            $services[] = Services::SLEEPOVER;
+            $services[] = self::SLEEPOVER;
             $result = $data['fts_field_host_rate_sleepover'];
-            $ratings['sleepover'] = (float) reset($result);
+            $serviceRates['sleepover'] = (float) reset($result);
         }
 
         $global_ratings = [
-            'petboarding' => $data['bs_petboarding'] ?? false,
-            'petboarding_rate' => (float) ($data['fs_petboarding_rate'] ?? 0),
-            'petsitting' => $data['bs_petsitting'] ?? false,
-            'petsitting_rate_minimum' => (float) ($data['fs_petsitting_rate_minimum'] ?? 0),
+            'petboarding' => isset($data['bs_petboarding']) ? $data['bs_petboarding'] : false,
+            'petboarding_rate' => (float) (isset($data['fs_petboarding_rate']) ? $data['fs_petboarding_rate'] : 0),
+            'petsitting' => isset($data['bs_petsitting']) ? $data['bs_petsitting'] : false,
+            'petsitting_rate_minimum' => (float) (isset($data['fs_petsitting_rate_minimum']) ? $data['fs_petsitting_rate_minimum'] : 0),
         ];
 
         $inquiry_info = unserialize($data['zs_inquiry_info'], ['allowed_classes' => true]);
@@ -134,45 +126,46 @@ class Transformer {
         $availability = unserialize($data['zs_availability'], ['allowed_classes' => true]);
 
         return [
-            'id' => (int) $data['entity_id'],
-            'profile_image' => $data['ss_ms_user_image_url'],
-            'name' => $data['ss_initials'],
-            'uid' => (int) $data['is_uid'],
-            'title' => $data['label'],
+            'userId' => (string) $data['is_uid'],
+            'userName' => (string) $data['ss_initials'],
+            'sitterId' => (string) $data['entity_id'],
+            'profileImageUrl' => (string) $data['ss_ms_user_image_url'],
+            'sitterName' => (string) $data['label'],
+            'latitude' => $location['lat'],
+            'longitude' => $location['lon'],
+            'reviewCount' => (int) (isset($data['is_reviews']) ? $data['is_reviews'] : 0),
+            'rating' => (int) $data['fs_rating'],
+            'sellerScore' => (int) (isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
+            'globalRate' => (int) (isset($data['rates']['global']) ? $data['rates']['global'] : 0), // nullable ?
+            'description' => (string) $data['ss_short_content'],
+            'language' => (string) $data['ss_language'],
+            'sitterSince' => $data['ds_created'],
+            'currency' => (string) $data['ss_currency_raw'],
+            'rates' => $serviceRates,
+            'unavailable' => [
+                'general' => $data['dm_inavailable'] ?? [],
+                self::PET_BOARDING => $data['dm_inavailable_1'] ?? [],
+                self::DOGGY_DAY_CARE => $data['dm_inavailable_7'] ?? [],
+                self::DOG_WALKING => $data['dm_inavailable_6'] ?? [],
+                self::HOME_VISITS => $data['dm_inavailable_100'] ?? [],
+                self::SLEEPOVER => $data['dm_inavailable_4'] ?? [],
+            ]
+            /*
             'address' => $data['ss_locality'],
-            'location' => $location,
-            'reviews' => (int) ($data['is_reviews'] ?? 0),
             'has_video' => $data['bs_has_video'],
-            'rating' => $data['fs_rating'],
             'services' => $services,
-            'rates' => [
-                'global' => $global_ratings,
-                'services' => $ratings,
-            ],
-            'seller_score' => (int) ($data['is_seller_score'] ?? 0),
             'seller_score_v2' => (int) ($data['is_seller_score_v2'] ?? 0),
             'currency' => [
                 'currency' => $data['ss_currency_raw'],
                 'symbol' => $data['ss_currency'],
             ],
-            'created' => $data['ds_created'],
-            'short_content' => $data['ss_short_content'],
-            'language' => $data['ss_language'],
             'pending_bookings' => (int) $data['is_pb'],
             'recurring_bookings' => (int) $data['is_rbookings'],
             'inquiry_info' => $inquiry_info,
             'pm_info' => $pm_info,
             'last_booked' => (int) $data['is_lb'],
             'last_contacted' => (int) $data['is_lc'],
-            'availability' => $availability,
-            'unavailable' => [
-                'general' => $data['dm_inavailable'] ?? [],
-                Services::PET_BOARDING => $data['dm_inavailable_1'] ?? [],
-                Services::DOGGY_DAY_CARE => $data['dm_inavailable_7'] ?? [],
-                Services::DOG_WALKING => $data['dm_inavailable_6'] ?? [],
-                Services::HOME_VISITS => $data['dm_inavailable_100'] ?? [],
-                Services::SLEEPOVER => $data['dm_inavailable_4'] ?? [],
-            ],
+            */
         ];
     }
 }

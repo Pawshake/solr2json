@@ -1,0 +1,3157 @@
+[
+  {
+    "id": "g34klh/node/486",
+    "site": "http://en.pawshake.be/",
+    "hash": "g34klh",
+    "entity_id": 486,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "en-BE",
+    "path": "node/486",
+    "url": "http://en.pawshake.be/petsitters/antwerpen/rabbit-sit-486",
+    "path_alias": "petsitters/antwerpen/rabbit-sit-486",
+    "label": "Rabbit Sit",
+    "spell": [
+      "Rabbit Sit",
+      " Jodenstraat.8 2000 Antwerpen Belgium I am currently MA student in jewelry design.  I am 27 yrs old. Bunny lover. I have a bun&quot; Kajiru&quot;. We live in the center of Antwerp city. Rabbits are mostly welcome! I would also pet sit other small animals like cavias, hamsters, chincillas or birds and fishes. But no reptiles.  yes no 15 yes Flexible 8.00 no Latitude: 51.216904000000 Longitude: 4.406088000000 no yes yes no 1 1 no no 9.00 15.00 28.00 no no no no no no cat sitting dog sitting doggy day care dog grooming Host vetting status:  Legacy vetted ",
+      "Flexible",
+      "cat sitting dog sitting doggy day care dog grooming"
+    ],
+    "content": " Jodenstraat.8 2000 Antwerpen Belgium I am currently MA student in jewelry design.  I am 27 yrs old. Bunny lover. I have a bun&quot; Kajiru&quot;. We live in the center of Antwerp city. Rabbits are mostly welcome! I would also pet sit other small animals like cavias, hamsters, chincillas or birds and fishes. But no reptiles.  yes no 15 yes Flexible 8.00 no Latitude: 51.216904000000 Longitude: 4.406088000000 no yes yes no 1 1 no no 9.00 15.00 28.00 no no no no no no cat sitting dog sitting doggy day care dog grooming Host vetting status:  Legacy vetted ",
+    "teaser": " Jodenstraat.8 2000 Antwerpen Belgium I am currently MA student in jewelry design.  I am 27 yrs old. Bunny lover. I have a bun&quot; Kajiru&quot;. We live in the center of Antwerp city. Rabbits are mostly welcome! I would also pet sit other small animals like cavias, hamsters, chincillas or birds",
+    "ss_name": "lianyoung86",
+    "tos_name": "lianyoung86",
+    "ss_name_formatted": "lianyoung86",
+    "tos_name_formatted": "lianyoung86",
+    "is_uid": 462,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2013-11-10T15:07:55Z",
+    "ds_changed": "2014-10-09T10:29:56Z",
+    "ds_last_comment_or_change": "2014-10-09T10:29:56Z",
+    "locm_field_host_geocode": [
+      "51.216904000000,4.406088000000"
+    ],
+    "locs_field_host_geocode": "51.216904000000,4.406088000000",
+    "im_field_host_cancellation_polic": [
+      1
+    ],
+    "tid": [
+      1,
+      25,
+      28,
+      31,
+      30
+    ],
+    "im_vid_5": [
+      1
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Flexible"
+    ],
+    "tm_vid_5_names": [
+      "Flexible"
+    ],
+    "bm_field_host_grooming": [
+      true
+    ],
+    "bs_field_host_grooming": true,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      false
+    ],
+    "bs_field_host_pet_boarding": false,
+    "bm_field_host_pick_up_drop_off": [
+      false
+    ],
+    "bs_field_host_pick_up_drop_off": false,
+    "ftm_field_host_rate_additional_p": [
+      8.0
+    ],
+    "fts_field_host_rate_additional_p": 8.0,
+    "ftm_field_host_rate_per_night": [
+      15.0
+    ],
+    "fts_field_host_rate_per_night": 15.0,
+    "bm_field_host_walking": [
+      false
+    ],
+    "bs_field_host_walking": false,
+    "bm_field_host_daycare_in_my_home": [
+      true
+    ],
+    "bs_field_host_daycare_in_my_home": true,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      true
+    ],
+    "bs_field_host_home_visits": true,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      true
+    ],
+    "bs_field_host_one_home_visit": true,
+    "ftm_field_host_rate_one_home_vis": [
+      9.0
+    ],
+    "fts_field_host_rate_one_home_vis": 9.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      15.0
+    ],
+    "fts_field_host_rate_two_home_vis": 15.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      true
+    ],
+    "bs_field_host_two_home_visits": true,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      false
+    ],
+    "bs_field_host_large_female_dogs": false,
+    "bm_field_host_large_male_dogs": [
+      false
+    ],
+    "bs_field_host_large_male_dogs": false,
+    "bm_field_host_small_female_dogs": [
+      false
+    ],
+    "bs_field_host_small_female_dogs": false,
+    "bm_field_host_small_male_dogs": [
+      false
+    ],
+    "bs_field_host_small_male_dogs": false,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "im_field_tagged_services": [
+      25,
+      28,
+      31,
+      30
+    ],
+    "im_vid_9": [
+      25,
+      28,
+      31,
+      30
+    ],
+    "sm_vid_Host_Service": [
+      "cat sitting",
+      "dog sitting",
+      "doggy day care",
+      "dog grooming"
+    ],
+    "tm_vid_9_names": [
+      "cat sitting dog sitting doggy day care dog grooming"
+    ],
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 0.0,
+    "fss_rating": 0.0,
+    "is_seller_score": 1,
+    "is_seller_score_v2": 0,
+    "fs_success_rate_lifetime": 0.0,
+    "fs_success_rate_pre_approved": 0.0,
+    "is_kill_score": 0,
+    "is_rbookings": 0,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 0,
+    "is_lc": 1499877419,
+    "is_lb": 0,
+    "bs_has_no_dogs": true,
+    "is_nr_of_dogs": 0,
+    "ss_breed_name": "",
+    "ss_dog_name": "",
+    "bs_has_no_children": true,
+    "ss_locality": "Antwerpen",
+    "bs_male": false,
+    "bs_female": false,
+    "bs_small": false,
+    "bs_large": false,
+    "bs_home_visits": true,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:1:\"5\";s:12:\"messages_all\";s:2:\"16\";s:12:\"answered_all\";i:2;s:16:\"threads_all_rate\";i:4;s:17:\"answered_all_rate\";i:2;s:13:\"response_rate\";s:5:\"50.00\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"2\";s:14:\"unanswered_all\";i:2;s:25:\"avg_response_time_int_all\";d:34785;s:26:\"avg_response_time_date_all\";s:14:\"9 hours 39 min\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:12:\"within a day\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:4;s:20:\"unique_users_90_days\";i:0;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:1:\"2\";s:25:\"unique_users_pre_approved\";i:0;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:1:\"0\";s:27:\"unique_users_direct_booking\";s:1:\"0\";s:24:\"unique_users_booking_all\";s:1:\"0\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:1:\"2\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"0\";s:12:\"decline_rate\";i:0;s:23:\"total_inquiries_booking\";s:1:\"0\";s:32:\"unique_users_that_made_a_booking\";i:0;}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 0,
+    "ss_initials": "Li-an",
+    "ss_ms_user_image_url": "sa://pictures/picture-462-1384012552.jpg",
+    "ss_short_content": "I am currently MA student in jewelry design. I am 27 yrs old.\nBunny lover. I have a bun\" Kajiru\".",
+    "bs_petboarding": false,
+    "fs_petboarding_rate": 0.0,
+    "fs_petsitting_rate_minimum": 9.0,
+    "bs_petsitting": true,
+    "ds_last_enquiry": "2017-07-12T16:36:59Z",
+    "is_weight": 0,
+    "_version_": 1584210571898650624,
+    "timestamp": "2017-11-16T08:28:53.923Z"
+  },
+  {
+    "id": "g34klh/node/1008",
+    "site": "http://nlbe.pawshake.dev/",
+    "hash": "g34klh",
+    "entity_id": 1008,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "nl-BE",
+    "path": "node/1008",
+    "url": "http://nlbe.pawshake.dev/dierenoppas/wijnegem/pupia-1008",
+    "path_alias": "dierenoppas/wijnegem/pupia-1008",
+    "label": "Pupia",
+    "spell": [
+      "Pupia",
+      " Molendreef 19 Bus 2 2110 Wijnegem Belgium Flat Medium Hey! Welkom om mijn pagina op Pawshake! Ik ben wonende in Wijnegem en studeer momenteel voor mijn diploma &#039;Hondentrainer&#039;. Ik heb sinds een jaar zelf een &quot;blog&quot; &#039;Pupia&#039; op facebook waar ik regelmatig artikels en tips post ivm het dierenwelzijn.   In het verleden studeerde ik 2 jaar landbouw en 3 jaar dierenzorg. In dat laatste heb ik dan ook mijn middelbaar diploma gehaald. Ik heb ervaring met zowat alle diersoorten: reptielen,vissen,zoogdieren,landbouwdieren,... Dit door mijn opleiding, maar ook door ervaring thuis. Wij hebben thuis altijd huisdieren gehad, wat momenteel ook nog steeds het geval is. Dit gaat dan van een hond tot een salamander en van kippen tot vissen. Ook wilde dieren heb ik vaak een thuis gegeven, zoals jonge kauwen, egels, merels, duiven,....  Tarieven: De tarieven voor een eenmalig bezoek staan op mijn profiel te lezen.Wilt u me graag boeken op lange termijn? Bijv. bij ziekte of vakantie of wegens een drukke job?Dan bespreken we de prijzen tijdens een persoonlijke ontmoeting.     Ik heb ervaring met zowat alle diersoorten: reptielen,vissen,zoogdieren,landbouwdieren,... Dit door mijn opleiding, maar ook door ervaring thuis. Wij hebben thuis altijd verschillende soorten huisdieren gehad, wat momenteel ook nog steeds het geval is. Dit gaat dan van een hond tot een salamander en van kippen tot vissen. Ook wilde dieren heb ik vaak een thuis gegeven, zoals jonge kauwen, egels, merels, duiven,....  Tijdens mijn opleiding dierenzorg: Heb ik enkele weken avondles gevolgd over &#039;positieve gedragstraining bij honden&#039; en heb daar mijn attest van behaald,  Heb ik paardrij lessen gehad Heb ik mijn eindwerk geschreven over gedrag/lichaamstaal (ethologie) van de honden, &gt;&gt;&gt;  Tijdens mijn eindwerk had ik ook contact met de Gedragstherapeut David Pithie (uit het programma &#039;Het zal je hond maar zijn&#039;) en kon ik door hem een dag meedraaien in zijn wereld, wat erg interessant was!-Heb ik basislessen trimmen gehad (uitkammen,wassen, drogen, nagels, oren, ogen). -Deed ik 1 schooljaar stage bij een dierenwinkel. -Deed ik 1 schooljaar stage bij een dierenarst.   Omdat ik ook nog niet lang over een rijbewijs beschik en het qua veiligheid nog niet zie zitten hele routes af te gaan, zijn het enkel de dorpen rond Wijnegem die ik momenteel doe.     no yes 15 yes Strict 8.00 yes Latitude: 51.227366200000 Longitude: 4.528772100000 no yes yes yes 1 1 no yes 15.00 20.00 50.00 yes yes yes yes yes no yes yes dog sitting doggy day care dog walking cat sitting dog training no 15.00 50.00 8.00 yes no yes 20+ years yes yes yes yes English Dutch No kids no Forest yes Small (0-7kg) Medium (8-18kg) Large (18-45kg) Giant (45+ kg) Puppy (&lt; 1 year) Young (1-3 years) Adult (3-8 years) Senior (8+ years) yes no no I&#039;m on vacation:  yes Rate for each additional pet:  5.00 Host vetting status:  Legacy vetted ",
+      "Strict",
+      "Medium",
+      "Flat",
+      "dog sitting doggy day care dog walking cat sitting dog training"
+    ],
+    "content": " Molendreef 19 Bus 2 2110 Wijnegem Belgium Flat Medium Hey! Welkom om mijn pagina op Pawshake! Ik ben wonende in Wijnegem en studeer momenteel voor mijn diploma &#039;Hondentrainer&#039;. Ik heb sinds een jaar zelf een &quot;blog&quot; &#039;Pupia&#039; op facebook waar ik regelmatig artikels en tips post ivm het dierenwelzijn.   In het verleden studeerde ik 2 jaar landbouw en 3 jaar dierenzorg. In dat laatste heb ik dan ook mijn middelbaar diploma gehaald. Ik heb ervaring met zowat alle diersoorten: reptielen,vissen,zoogdieren,landbouwdieren,... Dit door mijn opleiding, maar ook door ervaring thuis. Wij hebben thuis altijd huisdieren gehad, wat momenteel ook nog steeds het geval is. Dit gaat dan van een hond tot een salamander en van kippen tot vissen. Ook wilde dieren heb ik vaak een thuis gegeven, zoals jonge kauwen, egels, merels, duiven,....  Tarieven: De tarieven voor een eenmalig bezoek staan op mijn profiel te lezen.Wilt u me graag boeken op lange termijn? Bijv. bij ziekte of vakantie of wegens een drukke job?Dan bespreken we de prijzen tijdens een persoonlijke ontmoeting.     Ik heb ervaring met zowat alle diersoorten: reptielen,vissen,zoogdieren,landbouwdieren,... Dit door mijn opleiding, maar ook door ervaring thuis. Wij hebben thuis altijd verschillende soorten huisdieren gehad, wat momenteel ook nog steeds het geval is. Dit gaat dan van een hond tot een salamander en van kippen tot vissen. Ook wilde dieren heb ik vaak een thuis gegeven, zoals jonge kauwen, egels, merels, duiven,....  Tijdens mijn opleiding dierenzorg: Heb ik enkele weken avondles gevolgd over &#039;positieve gedragstraining bij honden&#039; en heb daar mijn attest van behaald,  Heb ik paardrij lessen gehad Heb ik mijn eindwerk geschreven over gedrag/lichaamstaal (ethologie) van de honden, &gt;&gt;&gt;  Tijdens mijn eindwerk had ik ook contact met de Gedragstherapeut David Pithie (uit het programma &#039;Het zal je hond maar zijn&#039;) en kon ik door hem een dag meedraaien in zijn wereld, wat erg interessant was!-Heb ik basislessen trimmen gehad (uitkammen,wassen, drogen, nagels, oren, ogen). -Deed ik 1 schooljaar stage bij een dierenwinkel. -Deed ik 1 schooljaar stage bij een dierenarst.   Omdat ik ook nog niet lang over een rijbewijs beschik en het qua veiligheid nog niet zie zitten hele routes af te gaan, zijn het enkel de dorpen rond Wijnegem die ik momenteel doe.     no yes 15 yes Strict 8.00 yes Latitude: 51.227366200000 Longitude: 4.528772100000 no yes yes yes 1 1 no yes 15.00 20.00 50.00 yes yes yes yes yes no yes yes dog sitting doggy day care dog walking cat sitting dog training no 15.00 50.00 8.00 yes no yes 20+ years yes yes yes yes English Dutch No kids no Forest yes Small (0-7kg) Medium (8-18kg) Large (18-45kg) Giant (45+ kg) Puppy (&lt; 1 year) Young (1-3 years) Adult (3-8 years) Senior (8+ years) yes no no I&#039;m on vacation:  yes Rate for each additional pet:  5.00 Host vetting status:  Legacy vetted ",
+    "teaser": " Molendreef 19 Bus 2 2110 Wijnegem Belgium Flat Medium Hey! Welkom om mijn pagina op Pawshake! Ik ben wonende in Wijnegem en studeer momenteel voor mijn diploma &#039;Hondentrainer&#039;. Ik heb sinds een jaar zelf een &quot;blog&quot; &#039;Pupia&#039; op facebook waar ik regelmatig artikels en",
+    "ss_name": "Pia_Vercammen",
+    "tos_name": "Pia_Vercammen",
+    "ss_name_formatted": "Pia_Vercammen",
+    "tos_name_formatted": "Pia_Vercammen",
+    "is_uid": 1213,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2013-12-10T08:59:26Z",
+    "ds_changed": "2016-12-03T10:09:54Z",
+    "ds_last_comment_or_change": "2016-12-03T10:09:54Z",
+    "locm_field_host_geocode": [
+      "51.227366200000,4.528772100000"
+    ],
+    "locs_field_host_geocode": "51.227366200000,4.528772100000",
+    "im_field_host_cancellation_polic": [
+      3
+    ],
+    "tid": [
+      3,
+      8,
+      4,
+      28,
+      31,
+      27,
+      25,
+      29
+    ],
+    "im_vid_5": [
+      3
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Strict"
+    ],
+    "tm_vid_5_names": [
+      "Strict"
+    ],
+    "bm_field_host_grooming": [
+      false
+    ],
+    "bs_field_host_grooming": false,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      false
+    ],
+    "bs_field_host_pet_boarding": false,
+    "bm_field_host_pick_up_drop_off": [
+      true
+    ],
+    "bs_field_host_pick_up_drop_off": true,
+    "ftm_field_host_rate_additional_p": [
+      8.0
+    ],
+    "fts_field_host_rate_additional_p": 8.0,
+    "ftm_field_host_rate_per_night": [
+      15.0
+    ],
+    "fts_field_host_rate_per_night": 15.0,
+    "im_field_host_size_outdoor_area": [
+      8
+    ],
+    "im_vid_6": [
+      8
+    ],
+    "sm_vid_Host_Size_of_the_Outdoor_Area": [
+      "Medium"
+    ],
+    "tm_vid_6_names": [
+      "Medium"
+    ],
+    "im_field_host_type_of_property": [
+      4
+    ],
+    "im_vid_7": [
+      4
+    ],
+    "sm_vid_Host_Type_of_Property": [
+      "Flat"
+    ],
+    "tm_vid_7_names": [
+      "Flat"
+    ],
+    "bm_field_host_walking": [
+      true
+    ],
+    "bs_field_host_walking": true,
+    "bm_field_host_daycare_in_my_home": [
+      true
+    ],
+    "bs_field_host_daycare_in_my_home": true,
+    "bm_field_host_dog_training": [
+      true
+    ],
+    "bs_field_host_dog_training": true,
+    "bm_field_host_home_visits": [
+      true
+    ],
+    "bs_field_host_home_visits": true,
+    "bm_field_host_allow_exotic_anima": [
+      true
+    ],
+    "bs_field_host_allow_exotic_anima": true,
+    "bm_field_host_one_home_visit": [
+      true
+    ],
+    "bs_field_host_one_home_visit": true,
+    "ftm_field_host_rate_one_home_vis": [
+      15.0
+    ],
+    "fts_field_host_rate_one_home_vis": 15.0,
+    "ftm_field_host_rate_sleepover": [
+      50.0
+    ],
+    "fts_field_host_rate_sleepover": 50.0,
+    "ftm_field_host_rate_two_home_vis": [
+      20.0
+    ],
+    "fts_field_host_rate_two_home_vis": 20.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      true
+    ],
+    "bs_field_host_two_home_visits": true,
+    "bm_field_host_accept_cats": [
+      true
+    ],
+    "bs_field_host_accept_cats": true,
+    "bm_field_host_large_female_dogs": [
+      true
+    ],
+    "bs_field_host_large_female_dogs": true,
+    "bm_field_host_large_male_dogs": [
+      true
+    ],
+    "bs_field_host_large_male_dogs": true,
+    "bm_field_host_small_female_dogs": [
+      true
+    ],
+    "bs_field_host_small_female_dogs": true,
+    "bm_field_host_small_male_dogs": [
+      true
+    ],
+    "bs_field_host_small_male_dogs": true,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "bm_field_host_allow_small_animal": [
+      true
+    ],
+    "bs_field_host_allow_small_animal": true,
+    "bm_field_host_accept_ferrets": [
+      true
+    ],
+    "bs_field_host_accept_ferrets": true,
+    "im_field_tagged_services": [
+      28,
+      31,
+      27,
+      25,
+      29
+    ],
+    "im_vid_9": [
+      28,
+      31,
+      27,
+      25,
+      29
+    ],
+    "sm_vid_Host_Service": [
+      "dog sitting",
+      "doggy day care",
+      "dog walking",
+      "cat sitting",
+      "dog training"
+    ],
+    "tm_vid_9_names": [
+      "dog sitting doggy day care dog walking cat sitting dog training"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_dog_walking_rate": [
+      15.0
+    ],
+    "fts_field_dog_walking_rate": 15.0,
+    "ftm_field_host_doggy_day_care_ra": [
+      50.0
+    ],
+    "fts_field_host_doggy_day_care_ra": 50.0,
+    "ftm_field_host_doggy_day_care_ex": [
+      8.0
+    ],
+    "fts_field_host_doggy_day_care_ex": 8.0,
+    "bm_field_host_oral_medications": [
+      true
+    ],
+    "bs_field_host_oral_medications": true,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      true
+    ],
+    "bs_field_host_first_aid": true,
+    "im_field_host_years_experience": [
+      5
+    ],
+    "is_field_host_years_experience": 5,
+    "bm_field_host_training_technique": [
+      true
+    ],
+    "bs_field_host_training_technique": true,
+    "bm_field_host_volunteer": [
+      true
+    ],
+    "bs_field_host_volunteer": true,
+    "bm_field_host_behavioural_proble": [
+      true
+    ],
+    "bs_field_host_behavioural_proble": true,
+    "bm_field_host_rescue_pets": [
+      true
+    ],
+    "bs_field_host_rescue_pets": true,
+    "im_field_host_speaks_languages": [
+      1,
+      4
+    ],
+    "is_field_host_speaks_languages": 1,
+    "im_field_host_kids": [
+      1
+    ],
+    "is_field_host_kids": 1,
+    "bm_field_host_fenced_backyard": [
+      false
+    ],
+    "bs_field_host_fenced_backyard": false,
+    "im_field_host_walking_area": [
+      5
+    ],
+    "is_field_host_walking_area": 5,
+    "bm_field_host_off_leash_dog_area": [
+      true
+    ],
+    "bs_field_host_off_leash_dog_area": true,
+    "im_field_host_preferred_dog_size": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "is_field_host_preferred_dog_size": 1,
+    "im_field_host_preferred_dog_ages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "is_field_host_preferred_dog_ages": 1,
+    "bm_field_host_puppies_accepted": [
+      true
+    ],
+    "bs_field_host_puppies_accepted": true,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      false
+    ],
+    "bs_field_host_24_7_supervision": false,
+    "bm_field_host_emergency_transpor": [
+      true
+    ],
+    "bs_field_host_emergency_transpor": true,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "ftm_field_dog_walking_rate_extra": [
+      5.0
+    ],
+    "fts_field_dog_walking_rate_extra": 5.0,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 98.4,
+    "fss_rating": 98.4,
+    "is_seller_score": 1132,
+    "is_seller_score_v2": 4300,
+    "fs_success_rate_lifetime": 13.16,
+    "fs_success_rate_pre_approved": 100.0,
+    "is_kill_score": 0,
+    "is_rbookings": 3,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 0,
+    "is_lc": 1504098140,
+    "is_lb": 1500497910,
+    "bs_has_no_dogs": false,
+    "is_nr_of_dogs": 2,
+    "ss_breed_name": "Border Collie",
+    "ss_dog_name": "Sally",
+    "bs_has_no_children": true,
+    "ss_locality": "Wijnegem",
+    "bs_male": true,
+    "bs_female": true,
+    "bs_small": true,
+    "bs_large": true,
+    "bs_home_visits": true,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:2:\"55\";s:12:\"messages_all\";s:3:\"224\";s:12:\"answered_all\";i:40;s:16:\"threads_all_rate\";i:44;s:17:\"answered_all_rate\";i:40;s:13:\"response_rate\";s:5:\"90.91\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"6\";s:14:\"unanswered_all\";i:4;s:25:\"avg_response_time_int_all\";d:7113;s:26:\"avg_response_time_date_all\";s:13:\"1 hour 58 min\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:18:\"within a few hours\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:38;s:20:\"unique_users_90_days\";i:1;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:2:\"11\";s:25:\"unique_users_pre_approved\";i:1;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:1;s:21:\"unique_users_declined\";s:1:\"4\";s:27:\"unique_users_direct_booking\";s:1:\"1\";s:24:\"unique_users_booking_all\";s:1:\"2\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:2:\"23\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"4\";s:12:\"decline_rate\";d:17.390000000000001;s:23:\"total_inquiries_booking\";s:2:\"10\";s:32:\"unique_users_that_made_a_booking\";s:1:\"5\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 5,
+    "ss_initials": "Pia",
+    "ss_ms_user_image_url": "sa://pictures/picture-1213-1452526004.jpg",
+    "ss_short_content": "Hey!",
+    "bs_petboarding": false,
+    "fs_petboarding_rate": 0.0,
+    "fs_petsitting_rate_minimum": 15.0,
+    "bs_petsitting": true,
+    "ds_last_enquiry": "2017-08-21T20:12:17Z",
+    "is_weight": 0,
+    "_version_": 1584210572013993984,
+    "timestamp": "2017-11-16T08:28:54.299Z"
+  },
+  {
+    "id": "g34klh/node/1046",
+    "site": "http://nlbe.pawshake.dev/",
+    "hash": "g34klh",
+    "entity_id": 1046,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "nl-BE",
+    "path": "node/1046",
+    "url": "http://nlbe.pawshake.dev/dierenoppas/hoboken/frenchi-paradijs-bij-karin-1046",
+    "path_alias": "dierenoppas/hoboken/frenchi-paradijs-bij-karin-1046",
+    "label": "Frenchi Paradijs Bij Karin",
+    "spell": [
+      "Frenchi Paradijs Bij Karin",
+      " Bernstraat 20 2660 Hoboken Belgium House Small Ik ben Karin en woon samen met mijn man Michael in Hoboken. We hebben samen 2 hondjes (Kaya en Sookie) en een poes (Lilly). Omdat we zelf 2 kleine hondjes hebben, passen we enkel kleine hondjes op.   Sinds jongs af aan ben ik opgegroeid tussen de dieren. Een paar jaar geleden zocht ik zelf opvang voor onze poes Lily, omdat we op vakantie gingen. Omdat ik ze liever niet naar een pension deed, ben ik opzoek gegaan naar een thuisoppas. Maar blijkbaar was het moeilijker dan gedacht om iemand betrouwbaar uit de omgeving te vinden. Daarom heb ik mij ingeschreven op de site om mensen uit de buurt te helpen die een oppas voor hun hond of poes zoeken. Ik kom graag vrijblijvend eens langs om kennis te maken en u wensen te bespreken.  no no 15 yes Moderate 9.00 no Latitude: 51.160524600000 Longitude: 4.349863000000 yes yes no no 0 0 no no 9.00 15.00 28.00 yes no no no yes yes yes yes home dog boarding doggy day care no 12.00 10.00 yes no no 20+ years no no no no English Dutch yes yes Small (0-7kg) yes no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+      "Moderate",
+      "Small",
+      "House",
+      "home dog boarding doggy day care"
+    ],
+    "content": " Bernstraat 20 2660 Hoboken Belgium House Small Ik ben Karin en woon samen met mijn man Michael in Hoboken. We hebben samen 2 hondjes (Kaya en Sookie) en een poes (Lilly). Omdat we zelf 2 kleine hondjes hebben, passen we enkel kleine hondjes op.   Sinds jongs af aan ben ik opgegroeid tussen de dieren. Een paar jaar geleden zocht ik zelf opvang voor onze poes Lily, omdat we op vakantie gingen. Omdat ik ze liever niet naar een pension deed, ben ik opzoek gegaan naar een thuisoppas. Maar blijkbaar was het moeilijker dan gedacht om iemand betrouwbaar uit de omgeving te vinden. Daarom heb ik mij ingeschreven op de site om mensen uit de buurt te helpen die een oppas voor hun hond of poes zoeken. Ik kom graag vrijblijvend eens langs om kennis te maken en u wensen te bespreken.  no no 15 yes Moderate 9.00 no Latitude: 51.160524600000 Longitude: 4.349863000000 yes yes no no 0 0 no no 9.00 15.00 28.00 yes no no no yes yes yes yes home dog boarding doggy day care no 12.00 10.00 yes no no 20+ years no no no no English Dutch yes yes Small (0-7kg) yes no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+    "teaser": " Bernstraat 20 2660 Hoboken Belgium House Small Ik ben Karin en woon samen met mijn man Michael in Hoboken. We hebben samen 2 hondjes (Kaya en Sookie) en een poes (Lilly). Omdat we zelf 2 kleine hondjes hebben, passen we enkel kleine hondjes op.   Sinds jongs af aan ben ik opgegroeid tussen de",
+    "ss_name": "Kvansantvoort",
+    "tos_name": "Kvansantvoort",
+    "ss_name_formatted": "Kvansantvoort",
+    "tos_name_formatted": "Kvansantvoort",
+    "is_uid": 1250,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2013-12-12T09:42:35Z",
+    "ds_changed": "2017-09-04T19:04:37Z",
+    "ds_last_comment_or_change": "2017-09-04T19:04:37Z",
+    "locm_field_host_geocode": [
+      "51.160524600000,4.349863000000"
+    ],
+    "locs_field_host_geocode": "51.160524600000,4.349863000000",
+    "im_field_host_cancellation_polic": [
+      2
+    ],
+    "tid": [
+      2,
+      7,
+      5,
+      26,
+      31
+    ],
+    "im_vid_5": [
+      2
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Moderate"
+    ],
+    "tm_vid_5_names": [
+      "Moderate"
+    ],
+    "bm_field_host_grooming": [
+      false
+    ],
+    "bs_field_host_grooming": false,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      true
+    ],
+    "bs_field_host_pet_boarding": true,
+    "bm_field_host_pick_up_drop_off": [
+      false
+    ],
+    "bs_field_host_pick_up_drop_off": false,
+    "ftm_field_host_rate_additional_p": [
+      9.0
+    ],
+    "fts_field_host_rate_additional_p": 9.0,
+    "ftm_field_host_rate_per_night": [
+      15.0
+    ],
+    "fts_field_host_rate_per_night": 15.0,
+    "im_field_host_size_outdoor_area": [
+      7
+    ],
+    "im_vid_6": [
+      7
+    ],
+    "sm_vid_Host_Size_of_the_Outdoor_Area": [
+      "Small"
+    ],
+    "tm_vid_6_names": [
+      "Small"
+    ],
+    "im_field_host_type_of_property": [
+      5
+    ],
+    "im_vid_7": [
+      5
+    ],
+    "sm_vid_Host_Type_of_Property": [
+      "House"
+    ],
+    "tm_vid_7_names": [
+      "House"
+    ],
+    "bm_field_host_walking": [
+      false
+    ],
+    "bs_field_host_walking": false,
+    "bm_field_host_daycare_in_my_home": [
+      true
+    ],
+    "bs_field_host_daycare_in_my_home": true,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      false
+    ],
+    "bs_field_host_home_visits": false,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      false
+    ],
+    "bs_field_host_one_home_visit": false,
+    "ftm_field_host_rate_one_home_vis": [
+      9.0
+    ],
+    "fts_field_host_rate_one_home_vis": 9.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      15.0
+    ],
+    "fts_field_host_rate_two_home_vis": 15.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      false
+    ],
+    "bs_field_host_two_home_visits": false,
+    "bm_field_host_accept_cats": [
+      true
+    ],
+    "bs_field_host_accept_cats": true,
+    "bm_field_host_large_female_dogs": [
+      false
+    ],
+    "bs_field_host_large_female_dogs": false,
+    "bm_field_host_large_male_dogs": [
+      false
+    ],
+    "bs_field_host_large_male_dogs": false,
+    "bm_field_host_small_female_dogs": [
+      true
+    ],
+    "bs_field_host_small_female_dogs": true,
+    "bm_field_host_small_male_dogs": [
+      false
+    ],
+    "bs_field_host_small_male_dogs": false,
+    "bm_field_host_is_professional": [
+      true
+    ],
+    "bs_field_host_is_professional": true,
+    "sm_field_host_vat_number": [
+      "0860109391"
+    ],
+    "bm_field_host_allow_small_animal": [
+      true
+    ],
+    "bs_field_host_allow_small_animal": true,
+    "bm_field_host_accept_ferrets": [
+      true
+    ],
+    "bs_field_host_accept_ferrets": true,
+    "im_field_tagged_services": [
+      26,
+      31
+    ],
+    "im_vid_9": [
+      26,
+      31
+    ],
+    "sm_vid_Host_Service": [
+      "home dog boarding",
+      "doggy day care"
+    ],
+    "tm_vid_9_names": [
+      "home dog boarding doggy day care"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_host_doggy_day_care_ra": [
+      12.0
+    ],
+    "fts_field_host_doggy_day_care_ra": 12.0,
+    "ftm_field_host_doggy_day_care_ex": [
+      10.0
+    ],
+    "fts_field_host_doggy_day_care_ex": 10.0,
+    "bm_field_host_oral_medications": [
+      true
+    ],
+    "bs_field_host_oral_medications": true,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "im_field_host_years_experience": [
+      5
+    ],
+    "is_field_host_years_experience": 5,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      false
+    ],
+    "bs_field_host_volunteer": false,
+    "bm_field_host_behavioural_proble": [
+      false
+    ],
+    "bs_field_host_behavioural_proble": false,
+    "bm_field_host_rescue_pets": [
+      false
+    ],
+    "bs_field_host_rescue_pets": false,
+    "im_field_host_speaks_languages": [
+      1,
+      4
+    ],
+    "is_field_host_speaks_languages": 1,
+    "bm_field_host_fenced_backyard": [
+      true
+    ],
+    "bs_field_host_fenced_backyard": true,
+    "bm_field_host_off_leash_dog_area": [
+      true
+    ],
+    "bs_field_host_off_leash_dog_area": true,
+    "im_field_host_preferred_dog_size": [
+      1
+    ],
+    "is_field_host_preferred_dog_size": 1,
+    "bm_field_host_puppies_accepted": [
+      true
+    ],
+    "bs_field_host_puppies_accepted": true,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      false
+    ],
+    "bs_field_host_24_7_supervision": false,
+    "bm_field_host_emergency_transpor": [
+      false
+    ],
+    "bs_field_host_emergency_transpor": false,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 98.35294,
+    "fss_rating": 98.35294,
+    "is_seller_score": 53,
+    "is_seller_score_v2": 165,
+    "fs_success_rate_lifetime": 16.18,
+    "fs_success_rate_pre_approved": 100.0,
+    "is_kill_score": 0,
+    "is_rbookings": 11,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 3,
+    "is_lc": 1508841438,
+    "is_lb": 1504769269,
+    "bs_has_no_dogs": false,
+    "is_nr_of_dogs": 2,
+    "ss_breed_name": "Chihuahua",
+    "ss_dog_name": "Sookie",
+    "bs_has_no_children": true,
+    "ss_locality": "Hoboken",
+    "bs_male": false,
+    "bs_female": true,
+    "bs_small": true,
+    "bs_large": false,
+    "bs_home_visits": false,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:3:\"248\";s:12:\"messages_all\";s:4:\"1017\";s:12:\"answered_all\";i:161;s:16:\"threads_all_rate\";i:167;s:17:\"answered_all_rate\";i:161;s:13:\"response_rate\";s:5:\"96.41\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"3\";s:14:\"unanswered_all\";i:6;s:25:\"avg_response_time_int_all\";d:1811;s:26:\"avg_response_time_date_all\";s:13:\"30 min 11 sec\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:14:\"within an hour\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:136;s:20:\"unique_users_90_days\";i:3;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:2:\"86\";s:25:\"unique_users_pre_approved\";i:11;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:11;s:21:\"unique_users_declined\";s:2:\"64\";s:27:\"unique_users_direct_booking\";s:2:\"11\";s:24:\"unique_users_booking_all\";s:2:\"16\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:3:\"160\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:2:\"68\";s:12:\"decline_rate\";d:42.5;s:23:\"total_inquiries_booking\";s:2:\"68\";s:32:\"unique_users_that_made_a_booking\";s:2:\"22\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 17,
+    "ss_initials": "Karin",
+    "ss_ms_user_image_url": "sa://user/image/2013/12/dsc00006_1.jpg",
+    "ss_short_content": "Ik ben Karin en woon samen met mijn man Michael in Hoboken. We hebben samen 2 hondjes (Kaya en Sookie) en een poes (Lilly).",
+    "bs_petboarding": true,
+    "fs_petboarding_rate": 15.0,
+    "fs_petsitting_rate_minimum": 0.0,
+    "bs_petsitting": false,
+    "ds_last_enquiry": "2017-10-24T10:37:18Z",
+    "is_weight": 0,
+    "_version_": 1584210572040208384,
+    "timestamp": "2017-11-16T08:28:54.299Z"
+  },
+  {
+    "id": "g34klh/node/1982",
+    "site": "http://nlbe.pawshake.dev/",
+    "hash": "g34klh",
+    "entity_id": 1982,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "nl-BE",
+    "path": "node/1982",
+    "url": "http://nlbe.pawshake.dev/dierenoppas/lokeren/t-gewassen-woefke-1982",
+    "path_alias": "dierenoppas/lokeren/t-gewassen-woefke-1982",
+    "label": "T Gewassen Woefke",
+    "spell": [
+      "T Gewassen Woefke",
+      " Anna maria cogenstraat 12 9160 Lokeren Belgium House Large Mijn naam is Isabel en ik ben gepassioneerd door honden, vooral de grotere rassen! Natuurlijk zijn de kleine lievelingen ook welkom. Zelf hadden we vroeger een cuvac!  Met mijn opleiding van hondentrimmen (vooral grote rassen) achter de rug denk ik wel dat ik een goede petsitter ben. Zelf zijn er nu geen honden meer, zodat mijn gezin en ik ons volledig kunnen concentreren op de logés!  Voor meer info, neem gerust contact op Ik ben iemand die correct en eerlijk is, ik verwacht dit dan ook van de baasjes! De honden hebben hier een droomvakantie, we laten heel veel toe, natuurlijk in samenspraak met de baasjes.    yes no 20 yes Flexible 10.00 yes Latitude: 51.098572600000 Longitude: 3.977895400000 yes yes no no 0 0 no no 9.00 12.00 28.00 yes yes yes yes no yes no no home dog boarding doggy day care dog grooming no 12.00 no no no no no no no Kids &lt;10 years old yes no Large (18-45kg) Giant (45+ kg) Young (1-3 years) yes no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+      "Flexible",
+      "Large",
+      "House",
+      "home dog boarding doggy day care dog grooming"
+    ],
+    "content": " Anna maria cogenstraat 12 9160 Lokeren Belgium House Large Mijn naam is Isabel en ik ben gepassioneerd door honden, vooral de grotere rassen! Natuurlijk zijn de kleine lievelingen ook welkom. Zelf hadden we vroeger een cuvac!  Met mijn opleiding van hondentrimmen (vooral grote rassen) achter de rug denk ik wel dat ik een goede petsitter ben. Zelf zijn er nu geen honden meer, zodat mijn gezin en ik ons volledig kunnen concentreren op de logés!  Voor meer info, neem gerust contact op Ik ben iemand die correct en eerlijk is, ik verwacht dit dan ook van de baasjes! De honden hebben hier een droomvakantie, we laten heel veel toe, natuurlijk in samenspraak met de baasjes.    yes no 20 yes Flexible 10.00 yes Latitude: 51.098572600000 Longitude: 3.977895400000 yes yes no no 0 0 no no 9.00 12.00 28.00 yes yes yes yes no yes no no home dog boarding doggy day care dog grooming no 12.00 no no no no no no no Kids &lt;10 years old yes no Large (18-45kg) Giant (45+ kg) Young (1-3 years) yes no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+    "teaser": " Anna maria cogenstraat 12 9160 Lokeren Belgium House Large Mijn naam is Isabel en ik ben gepassioneerd door honden, vooral de grotere rassen! Natuurlijk zijn de kleine lievelingen ook welkom. Zelf hadden we vroeger een cuvac!  Met mijn opleiding van hondentrimmen (vooral grote rassen) achter de rug",
+    "ss_name": "1510838013@facebook",
+    "tos_name": "1510838013@facebook",
+    "ss_name_formatted": "1510838013@facebook",
+    "tos_name_formatted": "1510838013@facebook",
+    "is_uid": 4346,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2014-01-25T07:54:11Z",
+    "ds_changed": "2016-09-15T19:51:53Z",
+    "ds_last_comment_or_change": "2016-09-15T19:51:53Z",
+    "locm_field_host_geocode": [
+      "51.098572600000,3.977895400000"
+    ],
+    "locs_field_host_geocode": "51.098572600000,3.977895400000",
+    "im_field_host_cancellation_polic": [
+      1
+    ],
+    "tid": [
+      1,
+      9,
+      5,
+      26,
+      31,
+      30
+    ],
+    "im_vid_5": [
+      1
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Flexible"
+    ],
+    "tm_vid_5_names": [
+      "Flexible"
+    ],
+    "bm_field_host_grooming": [
+      true
+    ],
+    "bs_field_host_grooming": true,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      true
+    ],
+    "bs_field_host_pet_boarding": true,
+    "bm_field_host_pick_up_drop_off": [
+      true
+    ],
+    "bs_field_host_pick_up_drop_off": true,
+    "ftm_field_host_rate_additional_p": [
+      10.0
+    ],
+    "fts_field_host_rate_additional_p": 10.0,
+    "ftm_field_host_rate_per_night": [
+      20.0
+    ],
+    "fts_field_host_rate_per_night": 20.0,
+    "im_field_host_size_outdoor_area": [
+      9
+    ],
+    "im_vid_6": [
+      9
+    ],
+    "sm_vid_Host_Size_of_the_Outdoor_Area": [
+      "Large"
+    ],
+    "tm_vid_6_names": [
+      "Large"
+    ],
+    "im_field_host_type_of_property": [
+      5
+    ],
+    "im_vid_7": [
+      5
+    ],
+    "sm_vid_Host_Type_of_Property": [
+      "House"
+    ],
+    "tm_vid_7_names": [
+      "House"
+    ],
+    "bm_field_host_walking": [
+      false
+    ],
+    "bs_field_host_walking": false,
+    "bm_field_host_daycare_in_my_home": [
+      true
+    ],
+    "bs_field_host_daycare_in_my_home": true,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      false
+    ],
+    "bs_field_host_home_visits": false,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      false
+    ],
+    "bs_field_host_one_home_visit": false,
+    "ftm_field_host_rate_one_home_vis": [
+      9.0
+    ],
+    "fts_field_host_rate_one_home_vis": 9.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      12.0
+    ],
+    "fts_field_host_rate_two_home_vis": 12.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      false
+    ],
+    "bs_field_host_two_home_visits": false,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      true
+    ],
+    "bs_field_host_large_female_dogs": true,
+    "bm_field_host_large_male_dogs": [
+      true
+    ],
+    "bs_field_host_large_male_dogs": true,
+    "bm_field_host_small_female_dogs": [
+      true
+    ],
+    "bs_field_host_small_female_dogs": true,
+    "bm_field_host_small_male_dogs": [
+      true
+    ],
+    "bs_field_host_small_male_dogs": true,
+    "bm_field_host_is_professional": [
+      true
+    ],
+    "bs_field_host_is_professional": true,
+    "sm_field_host_vat_number": [
+      "BE0589851060"
+    ],
+    "bm_field_host_allow_small_animal": [
+      false
+    ],
+    "bs_field_host_allow_small_animal": false,
+    "bm_field_host_accept_ferrets": [
+      false
+    ],
+    "bs_field_host_accept_ferrets": false,
+    "im_field_tagged_services": [
+      26,
+      31,
+      30
+    ],
+    "im_vid_9": [
+      26,
+      31,
+      30
+    ],
+    "sm_vid_Host_Service": [
+      "home dog boarding",
+      "doggy day care",
+      "dog grooming"
+    ],
+    "tm_vid_9_names": [
+      "home dog boarding doggy day care dog grooming"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_host_doggy_day_care_ra": [
+      12.0
+    ],
+    "fts_field_host_doggy_day_care_ra": 12.0,
+    "bm_field_host_oral_medications": [
+      false
+    ],
+    "bs_field_host_oral_medications": false,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      false
+    ],
+    "bs_field_host_volunteer": false,
+    "bm_field_host_behavioural_proble": [
+      false
+    ],
+    "bs_field_host_behavioural_proble": false,
+    "bm_field_host_rescue_pets": [
+      false
+    ],
+    "bs_field_host_rescue_pets": false,
+    "im_field_host_kids": [
+      3
+    ],
+    "is_field_host_kids": 3,
+    "bm_field_host_fenced_backyard": [
+      true
+    ],
+    "bs_field_host_fenced_backyard": true,
+    "bm_field_host_off_leash_dog_area": [
+      false
+    ],
+    "bs_field_host_off_leash_dog_area": false,
+    "im_field_host_preferred_dog_size": [
+      3,
+      4
+    ],
+    "is_field_host_preferred_dog_size": 3,
+    "im_field_host_preferred_dog_ages": [
+      2
+    ],
+    "is_field_host_preferred_dog_ages": 2,
+    "bm_field_host_puppies_accepted": [
+      true
+    ],
+    "bs_field_host_puppies_accepted": true,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      false
+    ],
+    "bs_field_host_24_7_supervision": false,
+    "bm_field_host_emergency_transpor": [
+      false
+    ],
+    "bs_field_host_emergency_transpor": false,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 97.33332,
+    "fss_rating": 97.33332,
+    "is_seller_score": 0,
+    "is_seller_score_v2": 1,
+    "fs_success_rate_lifetime": 12.58,
+    "fs_success_rate_pre_approved": 0.0,
+    "is_kill_score": 0,
+    "is_rbookings": 3,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 1,
+    "is_lc": 1504868486,
+    "is_lb": 1472238670,
+    "bs_has_no_dogs": true,
+    "is_nr_of_dogs": 0,
+    "ss_breed_name": "",
+    "ss_dog_name": "",
+    "bs_has_no_children": false,
+    "ss_locality": "Lokeren",
+    "bs_male": true,
+    "bs_female": true,
+    "bs_small": true,
+    "bs_large": true,
+    "bs_home_visits": false,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:3:\"184\";s:12:\"messages_all\";s:3:\"821\";s:12:\"answered_all\";i:155;s:16:\"threads_all_rate\";i:170;s:17:\"answered_all_rate\";i:155;s:13:\"response_rate\";s:5:\"91.18\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"0\";s:14:\"unanswered_all\";i:15;s:25:\"avg_response_time_int_all\";d:876;s:26:\"avg_response_time_date_all\";s:13:\"14 min 36 sec\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:14:\"within an hour\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:151;s:20:\"unique_users_90_days\";i:5;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:2:\"45\";s:25:\"unique_users_pre_approved\";i:1;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:2:\"34\";s:27:\"unique_users_direct_booking\";s:1:\"1\";s:24:\"unique_users_booking_all\";s:1:\"1\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:2:\"50\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:2:\"36\";s:12:\"decline_rate\";d:72;s:23:\"total_inquiries_booking\";s:1:\"1\";s:32:\"unique_users_that_made_a_booking\";s:2:\"19\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 12,
+    "ss_initials": "Isabel",
+    "ss_ms_user_image_url": "sa://pictures/picture-4346-1391208596.jpg",
+    "ss_short_content": "Mijn naam is Isabel en ik ben gepassioneerd door honden, vooral de grotere rassen! Natuurlijk zijn de kleine lievelingen ook welkom.",
+    "bs_petboarding": true,
+    "fs_petboarding_rate": 20.0,
+    "fs_petsitting_rate_minimum": 0.0,
+    "bs_petsitting": false,
+    "ds_last_enquiry": "2017-09-07T18:56:01Z",
+    "is_weight": 0,
+    "_version_": 1584210596599955456,
+    "timestamp": "2017-11-16T08:29:17.705Z"
+  },
+  {
+    "id": "g34klh/node/4828",
+    "site": "http://en.pawshake.be/",
+    "hash": "g34klh",
+    "entity_id": 4828,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "en-BE",
+    "path": "node/4828",
+    "url": "http://en.pawshake.be/petsitters/bruxells/swedish-pet-sitter-4828",
+    "path_alias": "petsitters/bruxells/swedish-pet-sitter-4828",
+    "label": "Swedish Pet Sitter",
+    "spell": [
+      "Swedish Pet Sitter",
+      " Rue de canal 20 1000 Bruxells Belgium I am a 31 years old Swedish woman living in Sainte Catherine area in Brussels with my husband. We are a young married Swedish couple which will be living in Brussels for a couple of years. My husband is working as a researcher at Erasmus Hospital while I since 2014 works as HR assistant for an American company in Brussels. I love animals and especially dogs. I have been living in a family with dogs my whole life and thought that dog walker could be perfect for me when I live here in Brussels. I love to be outdoors and go well with all kinds of dogs. I speak English, German and Swedish. I aim to learn French and Dutch. I can come to your home as a dog sitter or I can be a dog walker that plays, walks and takes care of your dog. Don´t hesitate to call me if you want to know more about me, Hope to hear from you! no yes 15 yes Flexible 8.00 yes Latitude: 50.854614900000 Longitude: 4.348301300000 no no yes no 1 1 no no 25.00 45.00 28.00 no no no no no no no no dog sitting dog walking cat sitting no 15.00 no no no no no no no English German Danish Swedish Norwegian no no no no no I&#039;m on vacation:  no Rate for each additional pet:  10.00 Host vetting status:  Legacy vetted ",
+      "Flexible",
+      "dog sitting dog walking cat sitting"
+    ],
+    "content": " Rue de canal 20 1000 Bruxells Belgium I am a 31 years old Swedish woman living in Sainte Catherine area in Brussels with my husband. We are a young married Swedish couple which will be living in Brussels for a couple of years. My husband is working as a researcher at Erasmus Hospital while I since 2014 works as HR assistant for an American company in Brussels. I love animals and especially dogs. I have been living in a family with dogs my whole life and thought that dog walker could be perfect for me when I live here in Brussels. I love to be outdoors and go well with all kinds of dogs. I speak English, German and Swedish. I aim to learn French and Dutch. I can come to your home as a dog sitter or I can be a dog walker that plays, walks and takes care of your dog. Don´t hesitate to call me if you want to know more about me, Hope to hear from you! no yes 15 yes Flexible 8.00 yes Latitude: 50.854614900000 Longitude: 4.348301300000 no no yes no 1 1 no no 25.00 45.00 28.00 no no no no no no no no dog sitting dog walking cat sitting no 15.00 no no no no no no no English German Danish Swedish Norwegian no no no no no I&#039;m on vacation:  no Rate for each additional pet:  10.00 Host vetting status:  Legacy vetted ",
+    "teaser": " Rue de canal 20 1000 Bruxells Belgium I am a 31 years old Swedish woman living in Sainte Catherine area in Brussels with my husband. We are a young married Swedish couple which will be living in Brussels for a couple of years. My husband is working as a researcher at Erasmus Hospital while I since",
+    "ss_name": "sandra.balhuizen",
+    "tos_name": "sandra.balhuizen",
+    "ss_name_formatted": "sandra.balhuizen",
+    "tos_name_formatted": "sandra.balhuizen",
+    "is_uid": 8771,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2014-04-04T18:26:17Z",
+    "ds_changed": "2017-04-19T19:26:09Z",
+    "ds_last_comment_or_change": "2017-04-19T19:26:09Z",
+    "locm_field_host_geocode": [
+      "50.854614900000,4.348301300000"
+    ],
+    "locs_field_host_geocode": "50.854614900000,4.348301300000",
+    "im_field_host_cancellation_polic": [
+      1
+    ],
+    "tid": [
+      1,
+      28,
+      27,
+      25
+    ],
+    "im_vid_5": [
+      1
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Flexible"
+    ],
+    "tm_vid_5_names": [
+      "Flexible"
+    ],
+    "bm_field_host_grooming": [
+      false
+    ],
+    "bs_field_host_grooming": false,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      false
+    ],
+    "bs_field_host_pet_boarding": false,
+    "bm_field_host_pick_up_drop_off": [
+      true
+    ],
+    "bs_field_host_pick_up_drop_off": true,
+    "ftm_field_host_rate_additional_p": [
+      8.0
+    ],
+    "fts_field_host_rate_additional_p": 8.0,
+    "ftm_field_host_rate_per_night": [
+      15.0
+    ],
+    "fts_field_host_rate_per_night": 15.0,
+    "bm_field_host_walking": [
+      true
+    ],
+    "bs_field_host_walking": true,
+    "bm_field_host_daycare_in_my_home": [
+      false
+    ],
+    "bs_field_host_daycare_in_my_home": false,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      true
+    ],
+    "bs_field_host_home_visits": true,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      true
+    ],
+    "bs_field_host_one_home_visit": true,
+    "ftm_field_host_rate_one_home_vis": [
+      25.0
+    ],
+    "fts_field_host_rate_one_home_vis": 25.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      45.0
+    ],
+    "fts_field_host_rate_two_home_vis": 45.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      true
+    ],
+    "bs_field_host_two_home_visits": true,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      false
+    ],
+    "bs_field_host_large_female_dogs": false,
+    "bm_field_host_large_male_dogs": [
+      false
+    ],
+    "bs_field_host_large_male_dogs": false,
+    "bm_field_host_small_female_dogs": [
+      false
+    ],
+    "bs_field_host_small_female_dogs": false,
+    "bm_field_host_small_male_dogs": [
+      false
+    ],
+    "bs_field_host_small_male_dogs": false,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "bm_field_host_allow_small_animal": [
+      false
+    ],
+    "bs_field_host_allow_small_animal": false,
+    "bm_field_host_accept_ferrets": [
+      false
+    ],
+    "bs_field_host_accept_ferrets": false,
+    "im_field_tagged_services": [
+      28,
+      27,
+      25
+    ],
+    "im_vid_9": [
+      28,
+      27,
+      25
+    ],
+    "sm_vid_Host_Service": [
+      "dog sitting",
+      "dog walking",
+      "cat sitting"
+    ],
+    "tm_vid_9_names": [
+      "dog sitting dog walking cat sitting"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_dog_walking_rate": [
+      15.0
+    ],
+    "fts_field_dog_walking_rate": 15.0,
+    "bm_field_host_oral_medications": [
+      false
+    ],
+    "bs_field_host_oral_medications": false,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      false
+    ],
+    "bs_field_host_volunteer": false,
+    "bm_field_host_behavioural_proble": [
+      false
+    ],
+    "bs_field_host_behavioural_proble": false,
+    "bm_field_host_rescue_pets": [
+      false
+    ],
+    "bs_field_host_rescue_pets": false,
+    "im_field_host_speaks_languages": [
+      1,
+      3,
+      10,
+      11,
+      12
+    ],
+    "is_field_host_speaks_languages": 1,
+    "bm_field_host_fenced_backyard": [
+      false
+    ],
+    "bs_field_host_fenced_backyard": false,
+    "bm_field_host_off_leash_dog_area": [
+      false
+    ],
+    "bs_field_host_off_leash_dog_area": false,
+    "bm_field_host_puppies_accepted": [
+      false
+    ],
+    "bs_field_host_puppies_accepted": false,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      false
+    ],
+    "bs_field_host_24_7_supervision": false,
+    "bm_field_host_emergency_transpor": [
+      false
+    ],
+    "bs_field_host_emergency_transpor": false,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "ftm_field_dog_walking_rate_extra": [
+      10.0
+    ],
+    "fts_field_dog_walking_rate_extra": 10.0,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 100.0,
+    "fss_rating": 100.0,
+    "is_seller_score": 1,
+    "is_seller_score_v2": 5,
+    "fs_success_rate_lifetime": 12.5,
+    "fs_success_rate_pre_approved": 100.0,
+    "is_kill_score": 0,
+    "is_rbookings": 0,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 0,
+    "is_lc": 1505246472,
+    "is_lb": 1480429110,
+    "bs_has_no_dogs": true,
+    "is_nr_of_dogs": 0,
+    "ss_breed_name": "",
+    "ss_dog_name": "",
+    "bs_has_no_children": true,
+    "ss_locality": "Bruxells",
+    "bs_male": false,
+    "bs_female": false,
+    "bs_small": false,
+    "bs_large": false,
+    "bs_home_visits": true,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:1:\"8\";s:12:\"messages_all\";s:2:\"39\";s:12:\"answered_all\";i:7;s:16:\"threads_all_rate\";i:8;s:17:\"answered_all_rate\";i:7;s:13:\"response_rate\";s:5:\"87.50\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"2\";s:14:\"unanswered_all\";i:1;s:25:\"avg_response_time_int_all\";d:25319;s:26:\"avg_response_time_date_all\";s:13:\"7 hours 1 min\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:12:\"within a day\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:8;s:20:\"unique_users_90_days\";i:1;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:1:\"4\";s:25:\"unique_users_pre_approved\";i:1;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:1;s:21:\"unique_users_declined\";s:1:\"0\";s:27:\"unique_users_direct_booking\";s:1:\"0\";s:24:\"unique_users_booking_all\";s:1:\"1\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:1:\"4\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"0\";s:12:\"decline_rate\";i:0;s:23:\"total_inquiries_booking\";s:1:\"1\";s:32:\"unique_users_that_made_a_booking\";s:1:\"1\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 1,
+    "ss_initials": "Sandra",
+    "ss_ms_user_image_url": "sa://user/image/2014/04/sandra_patag.jpg",
+    "ss_short_content": "I am a 31 years old Swedish woman living in Sainte Catherine area in Brussels with my husband.",
+    "bs_petboarding": false,
+    "fs_petboarding_rate": 0.0,
+    "fs_petsitting_rate_minimum": 15.0,
+    "bs_petsitting": true,
+    "ds_last_enquiry": "2017-09-12T20:01:12Z",
+    "is_weight": 0,
+    "_version_": 1584210620970958848,
+    "timestamp": "2017-11-16T08:29:40.898Z"
+  },
+  {
+    "id": "g34klh/node/5785",
+    "site": "http://fr.pawshake.be/",
+    "hash": "g34klh",
+    "entity_id": 5785,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "fr-BE",
+    "path": "node/5785",
+    "url": "http://fr.pawshake.be/garde-animaux/hoeilaart/lamie-des-animaux-5785",
+    "path_alias": "garde-animaux/hoeilaart/lamie-des-animaux-5785",
+    "label": "L&#039;amie Des Animaux",
+    "spell": [
+      "L&#039;amie Des Animaux",
+      " Wagebak 16 1560 Hoeilaart Belgium Flat Medium Chers propriétaires de 4-pattes et co, Etant une grande amie des animaux, je vous propose mes services. J&#039;ai toujours aimé être en contact avec eux et cela depuis que je suis petite.  Nous avons eu de tout à la maison: chat, chien, hamster, perroquet, canari et lapin. A l&#039;heure actuelle j&#039;ai un chien de race japonaise (Shiba Inu) de quasi 11 ans.   Je serai heureuse de pouvoir m&#039;occuper de vos &quot;petits et grands&quot; et suis prête à apprendre ce qu&#039;il faut pour les espèces dont je n&#039;ai pas encore eu l&#039;occasion de prendre soin. N&#039;hésitez pas à me contacter si vous souhaitez d&#039;autres informations. A bientôt!;-)  no yes 15 yes Flexible 8.00 yes Latitude: 50.773733500000 Longitude: 4.466659700000 no yes yes no 1 1 no no 12.00 14.50 28.00 yes no yes no no no yes yes dog sitting doggy day care dog walking cat sitting no 12.00 18.00 yes no no 10+ years no no no yes English French Dutch Spanish Kids &lt;10 years old no no no no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+      "Flexible",
+      "Medium",
+      "Flat",
+      "dog sitting doggy day care dog walking cat sitting"
+    ],
+    "content": " Wagebak 16 1560 Hoeilaart Belgium Flat Medium Chers propriétaires de 4-pattes et co, Etant une grande amie des animaux, je vous propose mes services. J&#039;ai toujours aimé être en contact avec eux et cela depuis que je suis petite.  Nous avons eu de tout à la maison: chat, chien, hamster, perroquet, canari et lapin. A l&#039;heure actuelle j&#039;ai un chien de race japonaise (Shiba Inu) de quasi 11 ans.   Je serai heureuse de pouvoir m&#039;occuper de vos &quot;petits et grands&quot; et suis prête à apprendre ce qu&#039;il faut pour les espèces dont je n&#039;ai pas encore eu l&#039;occasion de prendre soin. N&#039;hésitez pas à me contacter si vous souhaitez d&#039;autres informations. A bientôt!;-)  no yes 15 yes Flexible 8.00 yes Latitude: 50.773733500000 Longitude: 4.466659700000 no yes yes no 1 1 no no 12.00 14.50 28.00 yes no yes no no no yes yes dog sitting doggy day care dog walking cat sitting no 12.00 18.00 yes no no 10+ years no no no yes English French Dutch Spanish Kids &lt;10 years old no no no no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+    "teaser": " Wagebak 16 1560 Hoeilaart Belgium Flat Medium Chers propriétaires de 4-pattes et co, Etant une grande amie des animaux, je vous propose mes services. J&#039;ai toujours aimé être en contact avec eux et cela depuis que je suis petite.  Nous avons eu de tout à la maison: chat, chien, hamster,",
+    "ss_name": "dory.garcia",
+    "tos_name": "dory.garcia",
+    "ss_name_formatted": "dory.garcia",
+    "tos_name_formatted": "dory.garcia",
+    "is_uid": 9792,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2014-04-22T12:37:43Z",
+    "ds_changed": "2017-08-16T08:23:26Z",
+    "ds_last_comment_or_change": "2017-08-16T08:23:26Z",
+    "locm_field_host_geocode": [
+      "50.773733500000,4.466659700000"
+    ],
+    "locs_field_host_geocode": "50.773733500000,4.466659700000",
+    "im_field_host_cancellation_polic": [
+      1
+    ],
+    "tid": [
+      1,
+      8,
+      4,
+      28,
+      31,
+      27,
+      25
+    ],
+    "im_vid_5": [
+      1
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Flexible"
+    ],
+    "tm_vid_5_names": [
+      "Flexible"
+    ],
+    "bm_field_host_grooming": [
+      false
+    ],
+    "bs_field_host_grooming": false,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      false
+    ],
+    "bs_field_host_pet_boarding": false,
+    "bm_field_host_pick_up_drop_off": [
+      true
+    ],
+    "bs_field_host_pick_up_drop_off": true,
+    "ftm_field_host_rate_additional_p": [
+      8.0
+    ],
+    "fts_field_host_rate_additional_p": 8.0,
+    "ftm_field_host_rate_per_night": [
+      15.0
+    ],
+    "fts_field_host_rate_per_night": 15.0,
+    "im_field_host_size_outdoor_area": [
+      8
+    ],
+    "im_vid_6": [
+      8
+    ],
+    "sm_vid_Host_Size_of_the_Outdoor_Area": [
+      "Medium"
+    ],
+    "tm_vid_6_names": [
+      "Medium"
+    ],
+    "im_field_host_type_of_property": [
+      4
+    ],
+    "im_vid_7": [
+      4
+    ],
+    "sm_vid_Host_Type_of_Property": [
+      "Flat"
+    ],
+    "tm_vid_7_names": [
+      "Flat"
+    ],
+    "bm_field_host_walking": [
+      true
+    ],
+    "bs_field_host_walking": true,
+    "bm_field_host_daycare_in_my_home": [
+      true
+    ],
+    "bs_field_host_daycare_in_my_home": true,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      true
+    ],
+    "bs_field_host_home_visits": true,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      true
+    ],
+    "bs_field_host_one_home_visit": true,
+    "ftm_field_host_rate_one_home_vis": [
+      12.0
+    ],
+    "fts_field_host_rate_one_home_vis": 12.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      14.5
+    ],
+    "fts_field_host_rate_two_home_vis": 14.5,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      true
+    ],
+    "bs_field_host_two_home_visits": true,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      true
+    ],
+    "bs_field_host_large_female_dogs": true,
+    "bm_field_host_large_male_dogs": [
+      false
+    ],
+    "bs_field_host_large_male_dogs": false,
+    "bm_field_host_small_female_dogs": [
+      true
+    ],
+    "bs_field_host_small_female_dogs": true,
+    "bm_field_host_small_male_dogs": [
+      false
+    ],
+    "bs_field_host_small_male_dogs": false,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "bm_field_host_allow_small_animal": [
+      true
+    ],
+    "bs_field_host_allow_small_animal": true,
+    "bm_field_host_accept_ferrets": [
+      true
+    ],
+    "bs_field_host_accept_ferrets": true,
+    "im_field_tagged_services": [
+      28,
+      31,
+      27,
+      25
+    ],
+    "im_vid_9": [
+      28,
+      31,
+      27,
+      25
+    ],
+    "sm_vid_Host_Service": [
+      "dog sitting",
+      "doggy day care",
+      "dog walking",
+      "cat sitting"
+    ],
+    "tm_vid_9_names": [
+      "dog sitting doggy day care dog walking cat sitting"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_dog_walking_rate": [
+      12.0
+    ],
+    "fts_field_dog_walking_rate": 12.0,
+    "ftm_field_host_doggy_day_care_ra": [
+      18.0
+    ],
+    "fts_field_host_doggy_day_care_ra": 18.0,
+    "bm_field_host_oral_medications": [
+      true
+    ],
+    "bs_field_host_oral_medications": true,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "im_field_host_years_experience": [
+      4
+    ],
+    "is_field_host_years_experience": 4,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      false
+    ],
+    "bs_field_host_volunteer": false,
+    "bm_field_host_behavioural_proble": [
+      false
+    ],
+    "bs_field_host_behavioural_proble": false,
+    "bm_field_host_rescue_pets": [
+      true
+    ],
+    "bs_field_host_rescue_pets": true,
+    "im_field_host_speaks_languages": [
+      1,
+      2,
+      4,
+      8
+    ],
+    "is_field_host_speaks_languages": 1,
+    "im_field_host_kids": [
+      3
+    ],
+    "is_field_host_kids": 3,
+    "bm_field_host_fenced_backyard": [
+      false
+    ],
+    "bs_field_host_fenced_backyard": false,
+    "bm_field_host_off_leash_dog_area": [
+      false
+    ],
+    "bs_field_host_off_leash_dog_area": false,
+    "bm_field_host_puppies_accepted": [
+      false
+    ],
+    "bs_field_host_puppies_accepted": false,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      false
+    ],
+    "bs_field_host_24_7_supervision": false,
+    "bm_field_host_emergency_transpor": [
+      false
+    ],
+    "bs_field_host_emergency_transpor": false,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 100.0,
+    "fss_rating": 100.0,
+    "is_seller_score": 151,
+    "is_seller_score_v2": 1510,
+    "fs_success_rate_lifetime": 10.0,
+    "fs_success_rate_pre_approved": 0.0,
+    "is_kill_score": 0,
+    "is_rbookings": 1,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 0,
+    "is_lc": 1503400164,
+    "is_lb": 1488549339,
+    "bs_has_no_dogs": false,
+    "is_nr_of_dogs": 1,
+    "ss_breed_name": "Shiba Inu",
+    "ss_dog_name": "Rocky",
+    "bs_has_no_children": false,
+    "ss_locality": "Hoeilaart",
+    "bs_male": false,
+    "bs_female": true,
+    "bs_small": true,
+    "bs_large": true,
+    "bs_home_visits": true,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:2:\"25\";s:12:\"messages_all\";s:2:\"75\";s:12:\"answered_all\";i:22;s:16:\"threads_all_rate\";i:22;s:17:\"answered_all_rate\";i:22;s:13:\"response_rate\";s:6:\"100.00\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"0\";s:14:\"unanswered_all\";i:0;s:25:\"avg_response_time_int_all\";d:6469;s:26:\"avg_response_time_date_all\";s:13:\"1 hour 47 min\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:18:\"within a few hours\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:20;s:20:\"unique_users_90_days\";i:1;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:1:\"9\";s:25:\"unique_users_pre_approved\";i:0;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:1:\"8\";s:27:\"unique_users_direct_booking\";s:1:\"1\";s:24:\"unique_users_booking_all\";s:1:\"1\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:2:\"11\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"8\";s:12:\"decline_rate\";d:72.730000000000004;s:23:\"total_inquiries_booking\";s:1:\"2\";s:32:\"unique_users_that_made_a_booking\";s:1:\"2\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 3,
+    "ss_initials": "Dory",
+    "ss_ms_user_image_url": "sa://user/image/2014/04/p10001351.jpg",
+    "ss_short_content": "Chers propriétaires de 4-pattes et co,\nEtant une grande amie des animaux, je vous propose mes services.\nJ'ai toujours aimé être en contact avec eux ",
+    "bs_petboarding": false,
+    "fs_petboarding_rate": 0.0,
+    "fs_petsitting_rate_minimum": 12.0,
+    "bs_petsitting": true,
+    "ds_last_enquiry": "2017-08-22T11:09:24Z",
+    "is_weight": 0,
+    "_version_": 1584210647182213120,
+    "timestamp": "2017-11-16T08:30:05.966Z"
+  },
+  {
+    "id": "g34klh/node/6164",
+    "site": "http://fr.pawshake.ca/",
+    "hash": "g34klh",
+    "entity_id": 6164,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "fr-CA",
+    "path": "node/6164",
+    "url": "http://fr.pawshake.ca/garde-animaux/quebec-city/chez-heidi-6164",
+    "path_alias": "garde-animaux/quebec-city/chez-heidi-6164",
+    "label": "Chez Heidi",
+    "spell": [
+      "Chez Heidi",
+      " 2320 rue bruneau Appt 1 Quebec city, QC G1J2K2 Canada House Large Nous sommes situés à Québec près du Domaine Maizeret. Il me fera plaisir de me déplacer et prendre soin de votre animal durant votre absence. Soyez assurer que votre animal sera très bien traiter. J&#039;ai de l&#039;expérience en tant qu&#039;éleveure de Schnauzer que j&#039;ai été pendant 3 ans. Maintenant j&#039;éleve des Lhasa Apso. J&#039;ai ici un Labrador mâle de 4 ans qui s&#039;appelle Louka. Je l&#039;appelle mon gros tata parce que c&#039;est un chien tellement inoffensif. Il y a aussi avec nous une femelle Lasha Apso que j&#039;ai sauvée après de mauvais traitement. Elle a 1 an et demi, elle s&#039;appelle Loulou, elle est très fine et très sociable avec les autres animaux, elle a trouvé sa maison chez moi. Nous avons aussi un chat mâle qui se nomme Pantoufle. Lui, il aime tout le monde et est très rarement dans la maison.  no yes 25 yes Moderate 15.00 yes Latitude: 46.840541900000 Longitude:-71.215515400000 no no yes no 1 1 no yes 17.00 30.00 28.00 yes yes yes no no no yes no cat sitting dog sitting dog walking no 10.00 yes no no 10+ years no no no yes French no no no no no I&#039;m on vacation:  no Rate for each additional pet:  7.00 Host vetting status:  Legacy vetted ",
+      "Moderate",
+      "Large",
+      "House",
+      "cat sitting dog sitting dog walking"
+    ],
+    "content": " 2320 rue bruneau Appt 1 Quebec city, QC G1J2K2 Canada House Large Nous sommes situés à Québec près du Domaine Maizeret. Il me fera plaisir de me déplacer et prendre soin de votre animal durant votre absence. Soyez assurer que votre animal sera très bien traiter. J&#039;ai de l&#039;expérience en tant qu&#039;éleveure de Schnauzer que j&#039;ai été pendant 3 ans. Maintenant j&#039;éleve des Lhasa Apso. J&#039;ai ici un Labrador mâle de 4 ans qui s&#039;appelle Louka. Je l&#039;appelle mon gros tata parce que c&#039;est un chien tellement inoffensif. Il y a aussi avec nous une femelle Lasha Apso que j&#039;ai sauvée après de mauvais traitement. Elle a 1 an et demi, elle s&#039;appelle Loulou, elle est très fine et très sociable avec les autres animaux, elle a trouvé sa maison chez moi. Nous avons aussi un chat mâle qui se nomme Pantoufle. Lui, il aime tout le monde et est très rarement dans la maison.  no yes 25 yes Moderate 15.00 yes Latitude: 46.840541900000 Longitude:-71.215515400000 no no yes no 1 1 no yes 17.00 30.00 28.00 yes yes yes no no no yes no cat sitting dog sitting dog walking no 10.00 yes no no 10+ years no no no yes French no no no no no I&#039;m on vacation:  no Rate for each additional pet:  7.00 Host vetting status:  Legacy vetted ",
+    "teaser": " 2320 rue bruneau Appt 1 Quebec city, QC G1J2K2 Canada House Large Nous sommes situés à Québec près du Domaine Maizeret. Il me fera plaisir de me déplacer et prendre soin de votre animal durant votre absence. Soyez assurer que votre animal sera très bien traiter. J&#039;ai de l&#039;expérience en",
+    "ss_name": "564828984@facebook",
+    "tos_name": "564828984@facebook",
+    "ss_name_formatted": "564828984@facebook",
+    "tos_name_formatted": "564828984@facebook",
+    "is_uid": 10341,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2014-04-28T18:54:29Z",
+    "ds_changed": "2015-07-28T12:18:40Z",
+    "ds_last_comment_or_change": "2015-07-28T12:18:40Z",
+    "locm_field_host_geocode": [
+      "46.840541900000,-71.215515400000"
+    ],
+    "locs_field_host_geocode": "46.840541900000,-71.215515400000",
+    "im_field_host_cancellation_polic": [
+      2
+    ],
+    "tid": [
+      2,
+      9,
+      5,
+      25,
+      28,
+      27
+    ],
+    "im_vid_5": [
+      2
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Moderate"
+    ],
+    "tm_vid_5_names": [
+      "Moderate"
+    ],
+    "bm_field_host_grooming": [
+      false
+    ],
+    "bs_field_host_grooming": false,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      false
+    ],
+    "bs_field_host_pet_boarding": false,
+    "bm_field_host_pick_up_drop_off": [
+      true
+    ],
+    "bs_field_host_pick_up_drop_off": true,
+    "ftm_field_host_rate_additional_p": [
+      15.0
+    ],
+    "fts_field_host_rate_additional_p": 15.0,
+    "ftm_field_host_rate_per_night": [
+      25.0
+    ],
+    "fts_field_host_rate_per_night": 25.0,
+    "im_field_host_size_outdoor_area": [
+      9
+    ],
+    "im_vid_6": [
+      9
+    ],
+    "sm_vid_Host_Size_of_the_Outdoor_Area": [
+      "Large"
+    ],
+    "tm_vid_6_names": [
+      "Large"
+    ],
+    "im_field_host_type_of_property": [
+      5
+    ],
+    "im_vid_7": [
+      5
+    ],
+    "sm_vid_Host_Type_of_Property": [
+      "House"
+    ],
+    "tm_vid_7_names": [
+      "House"
+    ],
+    "bm_field_host_walking": [
+      true
+    ],
+    "bs_field_host_walking": true,
+    "bm_field_host_daycare_in_my_home": [
+      false
+    ],
+    "bs_field_host_daycare_in_my_home": false,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      true
+    ],
+    "bs_field_host_home_visits": true,
+    "bm_field_host_allow_exotic_anima": [
+      true
+    ],
+    "bs_field_host_allow_exotic_anima": true,
+    "bm_field_host_one_home_visit": [
+      true
+    ],
+    "bs_field_host_one_home_visit": true,
+    "ftm_field_host_rate_one_home_vis": [
+      17.0
+    ],
+    "fts_field_host_rate_one_home_vis": 17.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      30.0
+    ],
+    "fts_field_host_rate_two_home_vis": 30.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      true
+    ],
+    "bs_field_host_two_home_visits": true,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      true
+    ],
+    "bs_field_host_large_female_dogs": true,
+    "bm_field_host_large_male_dogs": [
+      false
+    ],
+    "bs_field_host_large_male_dogs": false,
+    "bm_field_host_small_female_dogs": [
+      true
+    ],
+    "bs_field_host_small_female_dogs": true,
+    "bm_field_host_small_male_dogs": [
+      true
+    ],
+    "bs_field_host_small_male_dogs": true,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "bm_field_host_allow_small_animal": [
+      true
+    ],
+    "bs_field_host_allow_small_animal": true,
+    "bm_field_host_accept_ferrets": [
+      false
+    ],
+    "bs_field_host_accept_ferrets": false,
+    "im_field_tagged_services": [
+      25,
+      28,
+      27
+    ],
+    "im_vid_9": [
+      25,
+      28,
+      27
+    ],
+    "sm_vid_Host_Service": [
+      "cat sitting",
+      "dog sitting",
+      "dog walking"
+    ],
+    "tm_vid_9_names": [
+      "cat sitting dog sitting dog walking"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_dog_walking_rate": [
+      10.0
+    ],
+    "fts_field_dog_walking_rate": 10.0,
+    "bm_field_host_oral_medications": [
+      true
+    ],
+    "bs_field_host_oral_medications": true,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "im_field_host_years_experience": [
+      4
+    ],
+    "is_field_host_years_experience": 4,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      false
+    ],
+    "bs_field_host_volunteer": false,
+    "bm_field_host_behavioural_proble": [
+      false
+    ],
+    "bs_field_host_behavioural_proble": false,
+    "bm_field_host_rescue_pets": [
+      true
+    ],
+    "bs_field_host_rescue_pets": true,
+    "im_field_host_speaks_languages": [
+      2
+    ],
+    "is_field_host_speaks_languages": 2,
+    "bm_field_host_fenced_backyard": [
+      false
+    ],
+    "bs_field_host_fenced_backyard": false,
+    "bm_field_host_off_leash_dog_area": [
+      false
+    ],
+    "bs_field_host_off_leash_dog_area": false,
+    "bm_field_host_puppies_accepted": [
+      false
+    ],
+    "bs_field_host_puppies_accepted": false,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      false
+    ],
+    "bs_field_host_24_7_supervision": false,
+    "bm_field_host_emergency_transpor": [
+      false
+    ],
+    "bs_field_host_emergency_transpor": false,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "ftm_field_dog_walking_rate_extra": [
+      7.0
+    ],
+    "fts_field_dog_walking_rate_extra": 7.0,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 100.0,
+    "fss_rating": 100.0,
+    "is_seller_score": 488,
+    "is_seller_score_v2": 3210,
+    "fs_success_rate_lifetime": 15.22,
+    "fs_success_rate_pre_approved": 0.0,
+    "is_kill_score": 0,
+    "is_rbookings": 2,
+    "bs_has_video": false,
+    "ss_currency_raw": "CAD",
+    "ss_currency": "C $",
+    "is_pb": 0,
+    "is_lc": 1501859284,
+    "is_lb": 1433111169,
+    "bs_has_no_dogs": false,
+    "is_nr_of_dogs": 2,
+    "ss_breed_name": "Lhassa Apso",
+    "ss_dog_name": "Loulou",
+    "bs_has_no_children": true,
+    "ss_locality": "Quebec city",
+    "bs_male": false,
+    "bs_female": false,
+    "bs_small": false,
+    "bs_large": false,
+    "bs_home_visits": true,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:2:\"54\";s:12:\"messages_all\";s:3:\"203\";s:12:\"answered_all\";i:50;s:16:\"threads_all_rate\";i:50;s:17:\"answered_all_rate\";i:50;s:13:\"response_rate\";s:6:\"100.00\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"0\";s:14:\"unanswered_all\";i:0;s:25:\"avg_response_time_int_all\";d:7253;s:26:\"avg_response_time_date_all\";s:14:\"2 hours 53 sec\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:18:\"within a few hours\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:46;s:20:\"unique_users_90_days\";i:0;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:1:\"6\";s:25:\"unique_users_pre_approved\";i:0;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:1:\"6\";s:27:\"unique_users_direct_booking\";s:1:\"0\";s:24:\"unique_users_booking_all\";s:1:\"0\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:1:\"6\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"6\";s:12:\"decline_rate\";d:100;s:23:\"total_inquiries_booking\";s:1:\"0\";s:32:\"unique_users_that_made_a_booking\";s:1:\"7\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 7,
+    "ss_initials": "Nathalie",
+    "ss_ms_user_image_url": "sa://facebook/2014/04/996928_10151640637533985_821083941_n.jpg",
+    "ss_short_content": "Nous sommes situés à Québec près du Domaine Maizeret. Il me fera plaisir de me déplacer et prendre soin de votre animal durant votre absence.",
+    "bs_petboarding": false,
+    "fs_petboarding_rate": 0.0,
+    "fs_petsitting_rate_minimum": 10.0,
+    "bs_petsitting": true,
+    "ds_last_enquiry": "2017-08-04T15:08:04Z",
+    "is_weight": 0,
+    "_version_": 1584210647214718976,
+    "timestamp": "2017-11-16T08:30:05.966Z"
+  },
+  {
+    "id": "g34klh/node/7645",
+    "site": "http://www.pawshake.de/",
+    "hash": "g34klh",
+    "entity_id": 7645,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "de-de",
+    "path": "node/7645",
+    "url": "http://www.pawshake.de/tiersitter/gro%C3%9Fhansdorf/mininas-7645",
+    "path_alias": "tiersitter/großhansdorf/mininas-7645",
+    "label": "Mininas",
+    "spell": [
+      "Mininas",
+      " Groten diek 68 22927 Großhansdorf Germany Seitdem ich denken kann, liebe ich Tiere. Als Kind teilte ich mein Zuhause mit Kaninchen, Mäusen, Katzen und später eeendlich einem Hund. Seit fast einem Jahr wohnen zwei Katzenschwestern bei mir. Sie fühlen sich sehr wohl bei mir und haben mich ganz schön im Griff. Da meine Wohnung (53qm) zu klein ist, um noch mehr Fellnasen aufzunehmen, betreue ich Euer Tier lieber bei Euch zu Hause, wobei dies in der näheren Umgebung liegen sollt (Kiekut, Großhansdorf). Ich bin berufstätig (Ergotherapeutin), bodenständig und verantwortungsbewußt. Ich sitte regelmäßig die Katzen meiner Nachbarin, habe selber zwei, mit denen ich mich intensiv befasse. Mit Hunden habe ich auch Erfahrung, da wir in meiner Jugend einen Familienhund besaßen.  no yes 15 yes Flexible 8.00 no Latitude: 53.652280000000 Longitude: 10.276990000000 no no yes no 1 0 no no 12.00 12.00 28.00 no no no no no no no no cat sitting dog sitting dog walking no 12.00 no no no no no no no English German Spanish no no no no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+      "Flexible",
+      "cat sitting dog sitting dog walking"
+    ],
+    "content": " Groten diek 68 22927 Großhansdorf Germany Seitdem ich denken kann, liebe ich Tiere. Als Kind teilte ich mein Zuhause mit Kaninchen, Mäusen, Katzen und später eeendlich einem Hund. Seit fast einem Jahr wohnen zwei Katzenschwestern bei mir. Sie fühlen sich sehr wohl bei mir und haben mich ganz schön im Griff. Da meine Wohnung (53qm) zu klein ist, um noch mehr Fellnasen aufzunehmen, betreue ich Euer Tier lieber bei Euch zu Hause, wobei dies in der näheren Umgebung liegen sollt (Kiekut, Großhansdorf). Ich bin berufstätig (Ergotherapeutin), bodenständig und verantwortungsbewußt. Ich sitte regelmäßig die Katzen meiner Nachbarin, habe selber zwei, mit denen ich mich intensiv befasse. Mit Hunden habe ich auch Erfahrung, da wir in meiner Jugend einen Familienhund besaßen.  no yes 15 yes Flexible 8.00 no Latitude: 53.652280000000 Longitude: 10.276990000000 no no yes no 1 0 no no 12.00 12.00 28.00 no no no no no no no no cat sitting dog sitting dog walking no 12.00 no no no no no no no English German Spanish no no no no no I&#039;m on vacation:  no Host vetting status:  Legacy vetted ",
+    "teaser": " Groten diek 68 22927 Großhansdorf Germany Seitdem ich denken kann, liebe ich Tiere. Als Kind teilte ich mein Zuhause mit Kaninchen, Mäusen, Katzen und später eeendlich einem Hund. Seit fast einem Jahr wohnen zwei Katzenschwestern bei mir. Sie fühlen sich sehr wohl bei mir und haben mich ganz schön",
+    "ss_name": "kath.albus",
+    "tos_name": "kath.albus",
+    "ss_name_formatted": "kath.albus",
+    "tos_name_formatted": "kath.albus",
+    "is_uid": 12108,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2014-05-08T16:24:32Z",
+    "ds_changed": "2015-09-24T15:40:40Z",
+    "ds_last_comment_or_change": "2015-09-24T15:40:40Z",
+    "locm_field_host_geocode": [
+      "53.652280000000,10.276990000000"
+    ],
+    "locs_field_host_geocode": "53.652280000000,10.276990000000",
+    "im_field_host_cancellation_polic": [
+      1
+    ],
+    "tid": [
+      1,
+      25,
+      28,
+      27
+    ],
+    "im_vid_5": [
+      1
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Flexible"
+    ],
+    "tm_vid_5_names": [
+      "Flexible"
+    ],
+    "bm_field_host_grooming": [
+      false
+    ],
+    "bs_field_host_grooming": false,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      false
+    ],
+    "bs_field_host_pet_boarding": false,
+    "bm_field_host_pick_up_drop_off": [
+      false
+    ],
+    "bs_field_host_pick_up_drop_off": false,
+    "ftm_field_host_rate_additional_p": [
+      8.0
+    ],
+    "fts_field_host_rate_additional_p": 8.0,
+    "ftm_field_host_rate_per_night": [
+      15.0
+    ],
+    "fts_field_host_rate_per_night": 15.0,
+    "bm_field_host_walking": [
+      true
+    ],
+    "bs_field_host_walking": true,
+    "bm_field_host_daycare_in_my_home": [
+      false
+    ],
+    "bs_field_host_daycare_in_my_home": false,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      true
+    ],
+    "bs_field_host_home_visits": true,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      true
+    ],
+    "bs_field_host_one_home_visit": true,
+    "ftm_field_host_rate_one_home_vis": [
+      12.0
+    ],
+    "fts_field_host_rate_one_home_vis": 12.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      12.0
+    ],
+    "fts_field_host_rate_two_home_vis": 12.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      false
+    ],
+    "bs_field_host_two_home_visits": false,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      false
+    ],
+    "bs_field_host_large_female_dogs": false,
+    "bm_field_host_large_male_dogs": [
+      false
+    ],
+    "bs_field_host_large_male_dogs": false,
+    "bm_field_host_small_female_dogs": [
+      false
+    ],
+    "bs_field_host_small_female_dogs": false,
+    "bm_field_host_small_male_dogs": [
+      false
+    ],
+    "bs_field_host_small_male_dogs": false,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "bm_field_host_allow_small_animal": [
+      false
+    ],
+    "bs_field_host_allow_small_animal": false,
+    "bm_field_host_accept_ferrets": [
+      false
+    ],
+    "bs_field_host_accept_ferrets": false,
+    "im_field_tagged_services": [
+      25,
+      28,
+      27
+    ],
+    "im_vid_9": [
+      25,
+      28,
+      27
+    ],
+    "sm_vid_Host_Service": [
+      "cat sitting",
+      "dog sitting",
+      "dog walking"
+    ],
+    "tm_vid_9_names": [
+      "cat sitting dog sitting dog walking"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_dog_walking_rate": [
+      12.0
+    ],
+    "fts_field_dog_walking_rate": 12.0,
+    "bm_field_host_oral_medications": [
+      false
+    ],
+    "bs_field_host_oral_medications": false,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      false
+    ],
+    "bs_field_host_volunteer": false,
+    "bm_field_host_behavioural_proble": [
+      false
+    ],
+    "bs_field_host_behavioural_proble": false,
+    "bm_field_host_rescue_pets": [
+      false
+    ],
+    "bs_field_host_rescue_pets": false,
+    "im_field_host_speaks_languages": [
+      1,
+      3,
+      8
+    ],
+    "is_field_host_speaks_languages": 1,
+    "bm_field_host_fenced_backyard": [
+      false
+    ],
+    "bs_field_host_fenced_backyard": false,
+    "bm_field_host_off_leash_dog_area": [
+      false
+    ],
+    "bs_field_host_off_leash_dog_area": false,
+    "bm_field_host_puppies_accepted": [
+      false
+    ],
+    "bs_field_host_puppies_accepted": false,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      false
+    ],
+    "bs_field_host_24_7_supervision": false,
+    "bm_field_host_emergency_transpor": [
+      false
+    ],
+    "bs_field_host_emergency_transpor": false,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 100.0,
+    "fss_rating": 100.0,
+    "is_seller_score": 0,
+    "is_seller_score_v2": 0,
+    "fs_success_rate_lifetime": 6.67,
+    "fs_success_rate_pre_approved": 0.0,
+    "is_kill_score": 0,
+    "is_rbookings": 1,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 1,
+    "is_lc": 1502957161,
+    "is_lb": 1456249761,
+    "bs_has_no_dogs": true,
+    "is_nr_of_dogs": 0,
+    "ss_breed_name": "",
+    "ss_dog_name": "",
+    "bs_has_no_children": true,
+    "ss_locality": "Großhansdorf",
+    "bs_male": false,
+    "bs_female": false,
+    "bs_small": false,
+    "bs_large": false,
+    "bs_home_visits": true,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:2:\"16\";s:12:\"messages_all\";s:2:\"43\";s:12:\"answered_all\";i:13;s:16:\"threads_all_rate\";i:15;s:17:\"answered_all_rate\";i:13;s:13:\"response_rate\";s:5:\"86.67\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"1\";s:14:\"unanswered_all\";i:2;s:25:\"avg_response_time_int_all\";d:20496;s:26:\"avg_response_time_date_all\";s:14:\"5 hours 41 min\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:18:\"within a few hours\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:15;s:20:\"unique_users_90_days\";i:0;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:1:\"8\";s:25:\"unique_users_pre_approved\";i:0;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:1:\"6\";s:27:\"unique_users_direct_booking\";s:1:\"0\";s:24:\"unique_users_booking_all\";s:1:\"0\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:1:\"8\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"6\";s:12:\"decline_rate\";d:75;s:23:\"total_inquiries_booking\";s:1:\"0\";s:32:\"unique_users_that_made_a_booking\";s:1:\"1\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 1,
+    "ss_initials": "Kathrin",
+    "ss_ms_user_image_url": "sa://user/image/2014/05/unbenannt.jpg",
+    "ss_short_content": "Seitdem ich denken kann, liebe ich Tiere. Als Kind teilte ich mein Zuhause mit Kaninchen, Mäusen, Katzen und später eeendlich einem Hund.",
+    "bs_petboarding": false,
+    "fs_petboarding_rate": 0.0,
+    "fs_petsitting_rate_minimum": 12.0,
+    "bs_petsitting": true,
+    "ds_last_enquiry": "2017-08-17T08:06:01Z",
+    "is_weight": 0,
+    "_version_": 1584210671314141184,
+    "timestamp": "2017-11-16T08:30:28.989Z"
+  },
+  {
+    "id": "g34klh/node/8372",
+    "site": "http://www.pawshake.nl/",
+    "hash": "g34klh",
+    "entity_id": 8372,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "nl-NL",
+    "path": "node/8372",
+    "url": "http://www.pawshake.nl/dierenoppas/rossum/liefdevolle-oppas-8372",
+    "path_alias": "dierenoppas/rossum/liefdevolle-oppas-8372",
+    "label": "Liefdevolle Oppas",
+    "spell": [
+      "Liefdevolle Oppas",
+      " De torenvalk 27 5328 gd Rossum Netherlands House Medium Ik woon in een rustig dorp met mooie plaatsen om te wandelen. Ik heb zelf 2 honden die maar al te graag mee gaan. Meestal zet ik ze in de auto en gaan we heel ergens anders naar toe voor wat afwisseling. De buurt hier hebben ze wel gezien!  Ik ben het allerliefste met dieren bezig en hier wil ik ook mijn beroep van maken.    Dierverzorging Helicon groenschool VMBO en MBO. Ik heb stage gelopen bij een hondenpension waar ik nog vaak kom om op te passen. daar loop ik al zo&#039;n 4 jaar.  Ben ook bezig met het behalen van het honden enkelen besluit via het Loi.  yes yes 18 yes Flexible 7.00 yes Latitude: 51.803315500000 Longitude: 5.327932700000 yes yes yes no 1 1 yes no 10.00 20.00 15.00 yes yes yes yes no no yes yes home dog boarding dog sitting doggy day care dog walking cat sitting house sitting dog grooming no 12.00 12.00 6.00 yes yes no &lt; 5 years no yes yes yes English Dutch yes Countryside yes Small (0-7kg) Medium (8-18kg) Large (18-45kg) Giant (45+ kg) Puppy (&lt; 1 year) Young (1-3 years) Adult (3-8 years) Senior (8+ years) yes no yes I&#039;m on vacation:  yes Host vetting status:  Legacy vetted ",
+      "Flexible",
+      "Medium",
+      "House",
+      "home dog boarding dog sitting doggy day care dog walking cat sitting house sitting dog grooming"
+    ],
+    "content": " De torenvalk 27 5328 gd Rossum Netherlands House Medium Ik woon in een rustig dorp met mooie plaatsen om te wandelen. Ik heb zelf 2 honden die maar al te graag mee gaan. Meestal zet ik ze in de auto en gaan we heel ergens anders naar toe voor wat afwisseling. De buurt hier hebben ze wel gezien!  Ik ben het allerliefste met dieren bezig en hier wil ik ook mijn beroep van maken.    Dierverzorging Helicon groenschool VMBO en MBO. Ik heb stage gelopen bij een hondenpension waar ik nog vaak kom om op te passen. daar loop ik al zo&#039;n 4 jaar.  Ben ook bezig met het behalen van het honden enkelen besluit via het Loi.  yes yes 18 yes Flexible 7.00 yes Latitude: 51.803315500000 Longitude: 5.327932700000 yes yes yes no 1 1 yes no 10.00 20.00 15.00 yes yes yes yes no no yes yes home dog boarding dog sitting doggy day care dog walking cat sitting house sitting dog grooming no 12.00 12.00 6.00 yes yes no &lt; 5 years no yes yes yes English Dutch yes Countryside yes Small (0-7kg) Medium (8-18kg) Large (18-45kg) Giant (45+ kg) Puppy (&lt; 1 year) Young (1-3 years) Adult (3-8 years) Senior (8+ years) yes no yes I&#039;m on vacation:  yes Host vetting status:  Legacy vetted ",
+    "teaser": " De torenvalk 27 5328 gd Rossum Netherlands House Medium Ik woon in een rustig dorp met mooie plaatsen om te wandelen. Ik heb zelf 2 honden die maar al te graag mee gaan. Meestal zet ik ze in de auto en gaan we heel ergens anders naar toe voor wat afwisseling. De buurt hier hebben ze wel gezien!  Ik",
+    "ss_name": "Janneke_1994",
+    "tos_name": "Janneke_1994",
+    "ss_name_formatted": "Janneke_1994",
+    "tos_name_formatted": "Janneke_1994",
+    "is_uid": 12846,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2014-05-15T21:32:08Z",
+    "ds_changed": "2017-07-17T16:19:01Z",
+    "ds_last_comment_or_change": "2017-07-17T16:19:01Z",
+    "locm_field_host_geocode": [
+      "51.803315500000,5.327932700000"
+    ],
+    "locs_field_host_geocode": "51.803315500000,5.327932700000",
+    "im_field_host_cancellation_polic": [
+      1
+    ],
+    "tid": [
+      1,
+      8,
+      5,
+      26,
+      28,
+      31,
+      27,
+      25,
+      32,
+      30
+    ],
+    "im_vid_5": [
+      1
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Flexible"
+    ],
+    "tm_vid_5_names": [
+      "Flexible"
+    ],
+    "bm_field_host_grooming": [
+      true
+    ],
+    "bs_field_host_grooming": true,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      true
+    ],
+    "bs_field_host_pet_boarding": true,
+    "bm_field_host_pick_up_drop_off": [
+      true
+    ],
+    "bs_field_host_pick_up_drop_off": true,
+    "ftm_field_host_rate_additional_p": [
+      7.0
+    ],
+    "fts_field_host_rate_additional_p": 7.0,
+    "ftm_field_host_rate_per_night": [
+      18.0
+    ],
+    "fts_field_host_rate_per_night": 18.0,
+    "im_field_host_size_outdoor_area": [
+      8
+    ],
+    "im_vid_6": [
+      8
+    ],
+    "sm_vid_Host_Size_of_the_Outdoor_Area": [
+      "Medium"
+    ],
+    "tm_vid_6_names": [
+      "Medium"
+    ],
+    "im_field_host_type_of_property": [
+      5
+    ],
+    "im_vid_7": [
+      5
+    ],
+    "sm_vid_Host_Type_of_Property": [
+      "House"
+    ],
+    "tm_vid_7_names": [
+      "House"
+    ],
+    "bm_field_host_walking": [
+      true
+    ],
+    "bs_field_host_walking": true,
+    "bm_field_host_daycare_in_my_home": [
+      true
+    ],
+    "bs_field_host_daycare_in_my_home": true,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      true
+    ],
+    "bs_field_host_home_visits": true,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      true
+    ],
+    "bs_field_host_one_home_visit": true,
+    "ftm_field_host_rate_one_home_vis": [
+      10.0
+    ],
+    "fts_field_host_rate_one_home_vis": 10.0,
+    "ftm_field_host_rate_sleepover": [
+      15.0
+    ],
+    "fts_field_host_rate_sleepover": 15.0,
+    "ftm_field_host_rate_two_home_vis": [
+      20.0
+    ],
+    "fts_field_host_rate_two_home_vis": 20.0,
+    "bm_field_host_sleepover": [
+      true
+    ],
+    "bs_field_host_sleepover": true,
+    "bm_field_host_two_home_visits": [
+      true
+    ],
+    "bs_field_host_two_home_visits": true,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      true
+    ],
+    "bs_field_host_large_female_dogs": true,
+    "bm_field_host_large_male_dogs": [
+      true
+    ],
+    "bs_field_host_large_male_dogs": true,
+    "bm_field_host_small_female_dogs": [
+      true
+    ],
+    "bs_field_host_small_female_dogs": true,
+    "bm_field_host_small_male_dogs": [
+      true
+    ],
+    "bs_field_host_small_male_dogs": true,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "bm_field_host_allow_small_animal": [
+      true
+    ],
+    "bs_field_host_allow_small_animal": true,
+    "bm_field_host_accept_ferrets": [
+      true
+    ],
+    "bs_field_host_accept_ferrets": true,
+    "im_field_tagged_services": [
+      26,
+      28,
+      31,
+      27,
+      25,
+      32,
+      30
+    ],
+    "im_vid_9": [
+      26,
+      28,
+      31,
+      27,
+      25,
+      32,
+      30
+    ],
+    "sm_vid_Host_Service": [
+      "home dog boarding",
+      "dog sitting",
+      "doggy day care",
+      "dog walking",
+      "cat sitting",
+      "house sitting",
+      "dog grooming"
+    ],
+    "tm_vid_9_names": [
+      "home dog boarding dog sitting doggy day care dog walking cat sitting house sitting dog grooming"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_dog_walking_rate": [
+      12.0
+    ],
+    "fts_field_dog_walking_rate": 12.0,
+    "ftm_field_host_doggy_day_care_ra": [
+      12.0
+    ],
+    "fts_field_host_doggy_day_care_ra": 12.0,
+    "ftm_field_host_doggy_day_care_ex": [
+      6.0
+    ],
+    "fts_field_host_doggy_day_care_ex": 6.0,
+    "bm_field_host_oral_medications": [
+      true
+    ],
+    "bs_field_host_oral_medications": true,
+    "bm_field_host_injected_medicatio": [
+      true
+    ],
+    "bs_field_host_injected_medicatio": true,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "im_field_host_years_experience": [
+      2
+    ],
+    "is_field_host_years_experience": 2,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      true
+    ],
+    "bs_field_host_volunteer": true,
+    "bm_field_host_behavioural_proble": [
+      true
+    ],
+    "bs_field_host_behavioural_proble": true,
+    "bm_field_host_rescue_pets": [
+      true
+    ],
+    "bs_field_host_rescue_pets": true,
+    "im_field_host_speaks_languages": [
+      1,
+      4
+    ],
+    "is_field_host_speaks_languages": 1,
+    "bm_field_host_fenced_backyard": [
+      true
+    ],
+    "bs_field_host_fenced_backyard": true,
+    "im_field_host_walking_area": [
+      4
+    ],
+    "is_field_host_walking_area": 4,
+    "bm_field_host_off_leash_dog_area": [
+      true
+    ],
+    "bs_field_host_off_leash_dog_area": true,
+    "im_field_host_preferred_dog_size": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "is_field_host_preferred_dog_size": 1,
+    "im_field_host_preferred_dog_ages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "is_field_host_preferred_dog_ages": 1,
+    "bm_field_host_puppies_accepted": [
+      true
+    ],
+    "bs_field_host_puppies_accepted": true,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      true
+    ],
+    "bs_field_host_24_7_supervision": true,
+    "bm_field_host_emergency_transpor": [
+      true
+    ],
+    "bs_field_host_emergency_transpor": true,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 84.0,
+    "fss_rating": 84.0,
+    "is_seller_score": 60,
+    "is_seller_score_v2": 6,
+    "fs_success_rate_lifetime": 10.0,
+    "fs_success_rate_pre_approved": 0.0,
+    "is_kill_score": 0,
+    "is_rbookings": 0,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 0,
+    "is_lc": 1500892726,
+    "is_lb": 1484684567,
+    "bs_has_no_dogs": false,
+    "is_nr_of_dogs": 2,
+    "ss_breed_name": "Teckel x poedel ",
+    "ss_dog_name": "Tommie",
+    "bs_has_no_children": true,
+    "ss_locality": "Rossum",
+    "bs_male": true,
+    "bs_female": true,
+    "bs_small": true,
+    "bs_large": true,
+    "bs_home_visits": true,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:2:\"21\";s:12:\"messages_all\";s:3:\"118\";s:12:\"answered_all\";i:18;s:16:\"threads_all_rate\";i:20;s:17:\"answered_all_rate\";i:18;s:13:\"response_rate\";s:5:\"90.00\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"1\";s:14:\"unanswered_all\";i:2;s:25:\"avg_response_time_int_all\";d:7987;s:26:\"avg_response_time_date_all\";s:14:\"2 hours 13 min\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:18:\"within a few hours\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:20;s:20:\"unique_users_90_days\";i:0;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:2:\"14\";s:25:\"unique_users_pre_approved\";i:0;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:1:\"0\";s:27:\"unique_users_direct_booking\";s:1:\"1\";s:24:\"unique_users_booking_all\";s:1:\"1\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:2:\"15\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"0\";s:12:\"decline_rate\";i:0;s:23:\"total_inquiries_booking\";s:1:\"1\";s:32:\"unique_users_that_made_a_booking\";s:1:\"2\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 1,
+    "ss_initials": "Janneke",
+    "ss_ms_user_image_url": "sa://pictures/picture-12846-1400188929.jpg",
+    "ss_short_content": "Ik woon in een rustig dorp met mooie plaatsen om te wandelen.\nIk heb zelf 2 honden die maar al te graag mee gaan.",
+    "bs_petboarding": true,
+    "fs_petboarding_rate": 18.0,
+    "fs_petsitting_rate_minimum": 10.0,
+    "bs_petsitting": true,
+    "ds_last_enquiry": "2017-07-24T09:37:46Z",
+    "is_weight": 0,
+    "_version_": 1584210701328580608,
+    "timestamp": "2017-11-16T08:30:57.633Z"
+  },
+  {
+    "id": "g34klh/node/16866",
+    "site": "http://fr.pawshake.be/",
+    "hash": "g34klh",
+    "entity_id": 16866,
+    "entity_type": "node",
+    "bundle": "host",
+    "bundle_name": "Gastgezin",
+    "ss_language": "fr-BE",
+    "path": "node/16866",
+    "url": "http://fr.pawshake.be/garde-animaux/bruxelles/au-bonheur-des-chiens-16866",
+    "path_alias": "garde-animaux/bruxelles/au-bonheur-des-chiens-16866",
+    "label": "Au Bonheur Des Chiens",
+    "spell": [
+      "Au Bonheur Des Chiens",
+      " Champ du roi n° 119 1040 Bruxelles Belgium House Medium Jeune pensionnée qui adore les animaux, sutout les chiens, j&#039;accueillerai  votre chien dans une ambiance familiale. Amour et câlins garantis. Pour 1 jour, 1 semaine ou plus.  Présence la plupart de la journée et toute la nuit votre animal dormira dans son panier à côté de mon lit dans ma chambre.  Liberté  totale pour votre chien dans tout l&#039;espace intérieur ainsi que dans le jardin.  Deux promenades par jour le matin et le soir, sauf si le temps ne le permet pas  J&#039;ai moi-même une petite naine spitz de 3 ans. Très sage et très sociable.  Je n&#039;ai choisi ni la race ni la taille de mon chien.  Je l&#039;ai adoptée car un ami a contracté une maladie grave et ne pouvait plus la garder. N&#039;ai jusqu&#039;à ce jour eu aucun problème avec la présence d&#039;un autre chien. J&#039;ai déjà accueilli beaucoup de chiens, un à la fois pour pouvoir accorder de l&#039;attention à celui qui arrive et celle qui est chez elle. Je parle et comprends le français, l&#039;italien, l&#039;anglais et le néerlandais. Beaucoup d&#039;amour pour les animaux, de la patience et de la bonne humeur. Je me sens bien avec les animaux et ils me le rendent bien.  Ai toujours eu des chiens durant ma vie.  Leur présence à mes cotés a toujours été un bonheur pour moi. no no 15 yes Flexible 15.00 no Latitude: 50.835469800000 Longitude: 4.393093700000 yes yes no no 0 0 no no 9.00 12.00 28.00 yes yes no no no no no no home dog boarding doggy day care no 15.00 15.00 yes no no &lt;1 year no no no yes English French Dutch Italian yes Urban no Small (0-7kg) Medium (8-18kg) yes no yes I&#039;m on vacation:  yes Host vetting status:  Legacy vetted ",
+      "Flexible",
+      "Medium",
+      "House",
+      "home dog boarding doggy day care"
+    ],
+    "content": " Champ du roi n° 119 1040 Bruxelles Belgium House Medium Jeune pensionnée qui adore les animaux, sutout les chiens, j&#039;accueillerai  votre chien dans une ambiance familiale. Amour et câlins garantis. Pour 1 jour, 1 semaine ou plus.  Présence la plupart de la journée et toute la nuit votre animal dormira dans son panier à côté de mon lit dans ma chambre.  Liberté  totale pour votre chien dans tout l&#039;espace intérieur ainsi que dans le jardin.  Deux promenades par jour le matin et le soir, sauf si le temps ne le permet pas  J&#039;ai moi-même une petite naine spitz de 3 ans. Très sage et très sociable.  Je n&#039;ai choisi ni la race ni la taille de mon chien.  Je l&#039;ai adoptée car un ami a contracté une maladie grave et ne pouvait plus la garder. N&#039;ai jusqu&#039;à ce jour eu aucun problème avec la présence d&#039;un autre chien. J&#039;ai déjà accueilli beaucoup de chiens, un à la fois pour pouvoir accorder de l&#039;attention à celui qui arrive et celle qui est chez elle. Je parle et comprends le français, l&#039;italien, l&#039;anglais et le néerlandais. Beaucoup d&#039;amour pour les animaux, de la patience et de la bonne humeur. Je me sens bien avec les animaux et ils me le rendent bien.  Ai toujours eu des chiens durant ma vie.  Leur présence à mes cotés a toujours été un bonheur pour moi. no no 15 yes Flexible 15.00 no Latitude: 50.835469800000 Longitude: 4.393093700000 yes yes no no 0 0 no no 9.00 12.00 28.00 yes yes no no no no no no home dog boarding doggy day care no 15.00 15.00 yes no no &lt;1 year no no no yes English French Dutch Italian yes Urban no Small (0-7kg) Medium (8-18kg) yes no yes I&#039;m on vacation:  yes Host vetting status:  Legacy vetted ",
+    "teaser": " Champ du roi n° 119 1040 Bruxelles Belgium House Medium Jeune pensionnée qui adore les animaux, sutout les chiens, j&#039;accueillerai  votre chien dans une ambiance familiale. Amour et câlins garantis. Pour 1 jour, 1 semaine ou plus.  Présence la plupart de la journée et toute la nuit votre animal",
+    "ss_name": "angela.micalizzi542",
+    "tos_name": "angela.micalizzi542",
+    "ss_name_formatted": "angela.micalizzi542",
+    "tos_name_formatted": "angela.micalizzi542",
+    "is_uid": 23355,
+    "bs_status": true,
+    "bs_sticky": false,
+    "bs_promote": false,
+    "is_tnid": 0,
+    "bs_translate": false,
+    "ds_created": "2014-07-22T10:45:14Z",
+    "ds_changed": "2015-10-28T21:49:03Z",
+    "ds_last_comment_or_change": "2015-10-28T21:49:03Z",
+    "locm_field_host_geocode": [
+      "50.835469800000,4.393093700000"
+    ],
+    "locs_field_host_geocode": "50.835469800000,4.393093700000",
+    "im_field_host_cancellation_polic": [
+      1
+    ],
+    "tid": [
+      1,
+      8,
+      5,
+      26,
+      31
+    ],
+    "im_vid_5": [
+      1
+    ],
+    "sm_vid_Host_Cancellation_Policy": [
+      "Flexible"
+    ],
+    "tm_vid_5_names": [
+      "Flexible"
+    ],
+    "bm_field_host_grooming": [
+      false
+    ],
+    "bs_field_host_grooming": false,
+    "bm_field_host_last_minute_bookin": [
+      true
+    ],
+    "bs_field_host_last_minute_bookin": true,
+    "bm_field_host_pet_boarding": [
+      true
+    ],
+    "bs_field_host_pet_boarding": true,
+    "bm_field_host_pick_up_drop_off": [
+      false
+    ],
+    "bs_field_host_pick_up_drop_off": false,
+    "ftm_field_host_rate_additional_p": [
+      15.0
+    ],
+    "fts_field_host_rate_additional_p": 15.0,
+    "ftm_field_host_rate_per_night": [
+      15.0
+    ],
+    "fts_field_host_rate_per_night": 15.0,
+    "im_field_host_size_outdoor_area": [
+      8
+    ],
+    "im_vid_6": [
+      8
+    ],
+    "sm_vid_Host_Size_of_the_Outdoor_Area": [
+      "Medium"
+    ],
+    "tm_vid_6_names": [
+      "Medium"
+    ],
+    "im_field_host_type_of_property": [
+      5
+    ],
+    "im_vid_7": [
+      5
+    ],
+    "sm_vid_Host_Type_of_Property": [
+      "House"
+    ],
+    "tm_vid_7_names": [
+      "House"
+    ],
+    "bm_field_host_walking": [
+      false
+    ],
+    "bs_field_host_walking": false,
+    "bm_field_host_daycare_in_my_home": [
+      true
+    ],
+    "bs_field_host_daycare_in_my_home": true,
+    "bm_field_host_dog_training": [
+      false
+    ],
+    "bs_field_host_dog_training": false,
+    "bm_field_host_home_visits": [
+      false
+    ],
+    "bs_field_host_home_visits": false,
+    "bm_field_host_allow_exotic_anima": [
+      false
+    ],
+    "bs_field_host_allow_exotic_anima": false,
+    "bm_field_host_one_home_visit": [
+      false
+    ],
+    "bs_field_host_one_home_visit": false,
+    "ftm_field_host_rate_one_home_vis": [
+      9.0
+    ],
+    "fts_field_host_rate_one_home_vis": 9.0,
+    "ftm_field_host_rate_sleepover": [
+      28.0
+    ],
+    "fts_field_host_rate_sleepover": 28.0,
+    "ftm_field_host_rate_two_home_vis": [
+      12.0
+    ],
+    "fts_field_host_rate_two_home_vis": 12.0,
+    "bm_field_host_sleepover": [
+      false
+    ],
+    "bs_field_host_sleepover": false,
+    "bm_field_host_two_home_visits": [
+      false
+    ],
+    "bs_field_host_two_home_visits": false,
+    "bm_field_host_accept_cats": [
+      false
+    ],
+    "bs_field_host_accept_cats": false,
+    "bm_field_host_large_female_dogs": [
+      false
+    ],
+    "bs_field_host_large_female_dogs": false,
+    "bm_field_host_large_male_dogs": [
+      false
+    ],
+    "bs_field_host_large_male_dogs": false,
+    "bm_field_host_small_female_dogs": [
+      true
+    ],
+    "bs_field_host_small_female_dogs": true,
+    "bm_field_host_small_male_dogs": [
+      true
+    ],
+    "bs_field_host_small_male_dogs": true,
+    "bm_field_host_is_professional": [
+      false
+    ],
+    "bs_field_host_is_professional": false,
+    "bm_field_host_allow_small_animal": [
+      false
+    ],
+    "bs_field_host_allow_small_animal": false,
+    "bm_field_host_accept_ferrets": [
+      false
+    ],
+    "bs_field_host_accept_ferrets": false,
+    "im_field_tagged_services": [
+      26,
+      31
+    ],
+    "im_vid_9": [
+      26,
+      31
+    ],
+    "sm_vid_Host_Service": [
+      "home dog boarding",
+      "doggy day care"
+    ],
+    "tm_vid_9_names": [
+      "home dog boarding doggy day care"
+    ],
+    "bm_field_kill_score": [
+      false
+    ],
+    "bs_field_kill_score": false,
+    "ftm_field_host_doggy_day_care_ra": [
+      15.0
+    ],
+    "fts_field_host_doggy_day_care_ra": 15.0,
+    "ftm_field_host_doggy_day_care_ex": [
+      15.0
+    ],
+    "fts_field_host_doggy_day_care_ex": 15.0,
+    "bm_field_host_oral_medications": [
+      true
+    ],
+    "bs_field_host_oral_medications": true,
+    "bm_field_host_injected_medicatio": [
+      false
+    ],
+    "bs_field_host_injected_medicatio": false,
+    "bm_field_host_first_aid": [
+      false
+    ],
+    "bs_field_host_first_aid": false,
+    "im_field_host_years_experience": [
+      1
+    ],
+    "is_field_host_years_experience": 1,
+    "bm_field_host_training_technique": [
+      false
+    ],
+    "bs_field_host_training_technique": false,
+    "bm_field_host_volunteer": [
+      false
+    ],
+    "bs_field_host_volunteer": false,
+    "bm_field_host_behavioural_proble": [
+      false
+    ],
+    "bs_field_host_behavioural_proble": false,
+    "bm_field_host_rescue_pets": [
+      true
+    ],
+    "bs_field_host_rescue_pets": true,
+    "im_field_host_speaks_languages": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "is_field_host_speaks_languages": 1,
+    "bm_field_host_fenced_backyard": [
+      true
+    ],
+    "bs_field_host_fenced_backyard": true,
+    "im_field_host_walking_area": [
+      1
+    ],
+    "is_field_host_walking_area": 1,
+    "bm_field_host_off_leash_dog_area": [
+      false
+    ],
+    "bs_field_host_off_leash_dog_area": false,
+    "im_field_host_preferred_dog_size": [
+      1,
+      2
+    ],
+    "is_field_host_preferred_dog_size": 1,
+    "bm_field_host_puppies_accepted": [
+      true
+    ],
+    "bs_field_host_puppies_accepted": true,
+    "bm_field_host_dbs_checked": [
+      false
+    ],
+    "bs_field_host_dbs_checked": false,
+    "bm_field_host_24_7_supervision": [
+      true
+    ],
+    "bs_field_host_24_7_supervision": true,
+    "bm_field_host_emergency_transpor": [
+      true
+    ],
+    "bs_field_host_emergency_transpor": true,
+    "bm_field_host_vacation": [
+      false
+    ],
+    "bs_field_host_vacation": false,
+    "sm_field_host_vetting_status": [
+      "legacy_vetted"
+    ],
+    "fs_rating": 98.66666,
+    "fss_rating": 98.66666,
+    "is_seller_score": 500,
+    "is_seller_score_v2": 1650,
+    "fs_success_rate_lifetime": 15.15,
+    "fs_success_rate_pre_approved": 100.0,
+    "is_kill_score": 0,
+    "is_rbookings": 1,
+    "bs_has_video": false,
+    "ss_currency_raw": "EUR",
+    "ss_currency": "€",
+    "is_pb": 0,
+    "is_lc": 1504937116,
+    "is_lb": 1503942848,
+    "bs_has_no_dogs": false,
+    "is_nr_of_dogs": 1,
+    "ss_breed_name": "spitz nain",
+    "ss_dog_name": "Bijou",
+    "bs_has_no_children": true,
+    "ss_locality": "Bruxelles",
+    "bs_male": true,
+    "bs_female": true,
+    "bs_small": true,
+    "bs_large": false,
+    "bs_home_visits": false,
+    "zs_pm_info": "a:28:{s:11:\"threads_all\";s:2:\"45\";s:12:\"messages_all\";s:3:\"187\";s:12:\"answered_all\";i:34;s:16:\"threads_all_rate\";i:37;s:17:\"answered_all_rate\";i:34;s:13:\"response_rate\";s:5:\"91.89\";s:24:\"threads_all_rate_45_days\";i:0;s:25:\"answered_all_rate_45_days\";i:0;s:21:\"response_rate_45_days\";i:0;s:23:\"threads_all_rate_7_days\";i:0;s:24:\"answered_all_rate_7_days\";i:0;s:20:\"response_rate_7_days\";i:0;s:6:\"unread\";s:1:\"0\";s:14:\"unanswered_all\";i:3;s:25:\"avg_response_time_int_all\";d:12001;s:26:\"avg_response_time_date_all\";s:14:\"3 hours 20 min\";s:13:\"unanswered_45\";i:0;s:24:\"avg_response_time_int_45\";d:0;s:25:\"avg_response_time_date_45\";s:1:\"/\";s:23:\"avg_response_time_human\";s:18:\"within a few hours\";s:13:\"unanswered_14\";i:0;s:24:\"avg_response_time_int_14\";d:0;s:25:\"avg_response_time_date_14\";s:1:\"/\";s:12:\"unanswered_7\";i:0;s:23:\"avg_response_time_int_7\";d:0;s:24:\"avg_response_time_date_7\";s:1:\"/\";s:22:\"unique_users_life_time\";i:33;s:20:\"unique_users_90_days\";i:2;}",
+    "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:2:\"11\";s:25:\"unique_users_pre_approved\";i:1;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:1;s:21:\"unique_users_declined\";s:1:\"6\";s:27:\"unique_users_direct_booking\";s:1:\"2\";s:24:\"unique_users_booking_all\";s:1:\"2\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:2:\"13\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"6\";s:12:\"decline_rate\";d:46.149999999999999;s:23:\"total_inquiries_booking\";s:1:\"3\";s:32:\"unique_users_that_made_a_booking\";s:1:\"5\";}",
+    "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
+    "is_reviews": 3,
+    "ss_initials": "Angela",
+    "ss_ms_user_image_url": "sa://user/image/2014/07/angela62_0.jpg",
+    "ss_short_content": "Jeune pensionnée qui adore les animaux, sutout les chiens, j'accueillerai votre chien dans une ambiance familiale. Amour et câlins garantis.",
+    "bs_petboarding": true,
+    "fs_petboarding_rate": 15.0,
+    "fs_petsitting_rate_minimum": 0.0,
+    "bs_petsitting": false,
+    "ds_last_enquiry": "2017-09-09T06:05:16Z",
+    "is_weight": 0,
+    "_version_": 1584210844067037184,
+    "timestamp": "2017-11-16T08:33:13.727Z"
+  }
+]

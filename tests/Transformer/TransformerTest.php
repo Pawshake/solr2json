@@ -16,11 +16,26 @@ class TransformerTest extends TestCase
 
     /**
      * @test
+     * @dataProvider provideSolrData
      */
-    public function shouldTransform()
+    public function shouldTransform($solrData)
     {
-        $result = $this->transformer->transform([]);
-        $this->assertMatchesSnapshot($result); 
+        $result = $this->transformer->transform((array) $solrData);
+        $this->assertMatchesSnapshot($result);
+    }
+
+    public function provideSolrData()
+    {
+        $solrDataSets = json_decode(
+            file_get_contents('./tests/Transformer/solr_data.json')
+        );
+
+        return array_map(
+            function ($solrDataSet) {
+                return [$solrDataSet];
+            },
+            $solrDataSets
+        );
     }
 
     protected function setUp()
