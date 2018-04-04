@@ -143,12 +143,12 @@ class Transformer
             'currency' => (string) $data['ss_currency_raw'],
             'rates' => $serviceRates,
             'unavailable' => [
-                'general' => $data['dm_inavailable'] ?? [],
-                self::PET_BOARDING => $data['dm_inavailable_1'] ?? [],
-                self::DOGGY_DAY_CARE => $data['dm_inavailable_7'] ?? [],
-                self::DOG_WALKING => $data['dm_inavailable_6'] ?? [],
-                self::HOME_VISITS => $data['dm_inavailable_100'] ?? [],
-                self::SLEEPOVER => $data['dm_inavailable_4'] ?? [],
+                'general' => isset($data['dm_inavailable']) ? $data['dm_inavailable'] : [],
+                self::PET_BOARDING => isset($data['dm_inavailable_1']) ? $data['dm_inavailable_1'] : [],
+                self::DOGGY_DAY_CARE => isset($data['dm_inavailable_7']) ? $data['dm_inavailable_7'] : [],
+                self::DOG_WALKING => isset($data['dm_inavailable_6']) ? $data['dm_inavailable_6'] : [],
+                self::HOME_VISITS => isset($data['dm_inavailable_100']) ? $data['dm_inavailable_100'] : [],
+                self::SLEEPOVER => isset($data['dm_inavailable_4']) ? $data['dm_inavailable_4'] : [],
             ]
             /*
             'address' => $data['ss_locality'],
