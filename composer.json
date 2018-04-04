@@ -2,7 +2,8 @@
   "name": "pawshake/solr2json",
   "type": "library",
   "require-dev": {
-    "phpunit/phpunit": "^7.0"
+    "phpunit/phpunit": "^6.0",
+    "spatie/phpunit-snapshot-assertions": "^1.2"
   },
   "authors": [
     {
@@ -18,7 +19,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Tests\\": "tests/"
+      "Pawshake\\Solr2json\\": "tests/"
     }
   }
 }
