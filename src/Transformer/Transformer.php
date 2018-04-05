@@ -29,12 +29,13 @@ class Transformer
             && $data['bm_field_host_daycare_in_my_home'][0] === 1) {
             $serviceRates['doggyDayCare'] = (float) reset($data['fts_field_host_doggy_day_care_ra']);
         }
-        if (isset($data['bs_home_visits'], $data['bs_home_visits'])) {
-            if (isset($data['fts_field_host_rate_one_home_vis'])) {
-                $serviceRates['homeVisits'] = (float) ($data['fts_field_host_rate_one_home_vis']);
-            }
-
+        if (isset($data['bs_home_visits'], $data['fts_field_host_rate_two_home_vis'])) {
+            $serviceRates['homeVisits'] = (float) reset($data['fts_field_host_rate_two_home_vis']);
         }
+        if (isset($data['bs_home_visits'], $data['fts_field_host_rate_one_home_vis'])) {
+            $serviceRates['homeVisits'] = (float) reset($data['fts_field_host_rate_one_home_vis']);
+        }
+
         if (isset($data['bm_field_host_sleepover'], $data['fts_field_host_rate_sleepover'])
             && $data['bm_field_host_sleepover'][0] === 1) {
             $serviceRates['sleepover'] = (float) reset($data['fts_field_host_rate_sleepover']);
