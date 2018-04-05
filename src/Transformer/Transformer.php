@@ -27,23 +27,23 @@ class Transformer
         if (isset($data['bm_field_host_pet_boarding'], $data['fts_field_host_rate_per_night']) && $data['bm_field_host_pet_boarding'][0] === 1) {
             $services[] = self::PET_BOARDING;
             $result = $data['fts_field_host_rate_per_night'];
-            $serviceRates['pet_boarding'] = (float) reset($result);
+            $serviceRates['petBoarding'] = (float) reset($result);
         }
         if (isset($data['bm_field_host_walking'], $data['fts_field_dog_walking_rate']) && $data['bm_field_host_walking'][0] === 1) {
             $services[] = self::DOG_WALKING;
             $result = $data['fts_field_dog_walking_rate'];
-            $serviceRates['dog_walking'] = (float) reset($result);
+            $serviceRates['dogWalking'] = (float) reset($result);
         }
 
         if (isset($data['bm_field_host_daycare_in_my_home'], $data['fts_field_host_doggy_day_care_ra']) && $data['bm_field_host_daycare_in_my_home'][0] === 1) {
             $services[] = self::DOGGY_DAY_CARE;
             $result = $data['fts_field_host_doggy_day_care_ra'];
-            $serviceRates['doggy_day_care'] = (float) reset($result);
+            $serviceRates['doggyDayCare'] = (float) reset($result);
         }
         if (isset($data['bs_home_visits'], $data['bs_home_visits'])) {
             if (isset($data['fts_field_host_rate_one_home_vis'])) {
                 $one_visit_result = $data['fts_field_host_rate_one_home_vis'];
-                $serviceRates['home_visits'] = (float) ($one_visit_result);
+                $serviceRates['homeVisits'] = (float) ($one_visit_result);
                 $services[] = self::HOME_VISITS;
             }
 
@@ -136,9 +136,6 @@ class Transformer
             'reviewCount' => (int) (isset($data['is_reviews']) ? $data['is_reviews'] : 0),
             'rating' => (int) $data['fs_rating'],
             'sellerScore' => (int) (isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
-            'globalRate' => (int) (isset($data['rates']['global']) ? $data['rates']['global'] : 0), // nullable ?
-            'description' => (string) $data['ss_short_content'],
-            'language' => (string) $data['ss_language'],
             'sitterSince' => $data['ds_created'],
             'currency' => (string) $data['ss_currency_raw'],
             'rates' => $serviceRates,
@@ -150,22 +147,7 @@ class Transformer
                 self::HOME_VISITS => isset($data['dm_inavailable_100']) ? $data['dm_inavailable_100'] : [],
                 self::SLEEPOVER => isset($data['dm_inavailable_4']) ? $data['dm_inavailable_4'] : [],
             ]
-            /*
-            'address' => $data['ss_locality'],
-            'has_video' => $data['bs_has_video'],
-            'services' => $services,
-            'seller_score_v2' => (int) ($data['is_seller_score_v2'] ?? 0),
-            'currency' => [
-                'currency' => $data['ss_currency_raw'],
-                'symbol' => $data['ss_currency'],
-            ],
-            'pending_bookings' => (int) $data['is_pb'],
-            'recurring_bookings' => (int) $data['is_rbookings'],
-            'inquiry_info' => $inquiry_info,
-            'pm_info' => $pm_info,
-            'last_booked' => (int) $data['is_lb'],
-            'last_contacted' => (int) $data['is_lc'],
-            */
+
         ];
     }
 }
