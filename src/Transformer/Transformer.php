@@ -54,13 +54,6 @@ class Transformer
             $serviceRates['sleepover'] = (float) reset($result);
         }
 
-        $global_ratings = [
-            'petboarding' => isset($data['bs_petboarding']) ? $data['bs_petboarding'] : false,
-            'petboarding_rate' => (float) (isset($data['fs_petboarding_rate']) ? $data['fs_petboarding_rate'] : 0),
-            'petsitting' => isset($data['bs_petsitting']) ? $data['bs_petsitting'] : false,
-            'petsitting_rate_minimum' => (float) (isset($data['fs_petsitting_rate_minimum']) ? $data['fs_petsitting_rate_minimum'] : 0),
-        ];
-
         $inquiry_info = unserialize($data['zs_inquiry_info']);
         $integers = [
             'unique_users_inquiry',
