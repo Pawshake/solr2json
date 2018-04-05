@@ -51,7 +51,6 @@ class Transformer
             'reviewCount' => (int) (isset($data['is_reviews']) ? $data['is_reviews'] : 0),
             'rating' => (int) $data['fs_rating'],
             'sellerScore' => (int) (isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
-            'sitterSince' => $data['ds_created'],
             'currency' => (string) $data['ss_currency_raw'],
             'rates' => $serviceRates,
             'unavailable' => [

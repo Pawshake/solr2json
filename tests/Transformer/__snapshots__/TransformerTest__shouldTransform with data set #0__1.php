@@ -9,7 +9,6 @@
   'reviewCount' => 0,
   'rating' => 0,
   'sellerScore' => 1,
-  'sitterSince' => '2013-11-10T15:07:55Z',
   'currency' => 'EUR',
   'rates' => 
   array (

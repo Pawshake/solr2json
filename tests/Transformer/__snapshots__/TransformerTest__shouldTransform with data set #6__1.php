@@ -9,7 +9,6 @@
   'reviewCount' => 7,
   'rating' => 100,
   'sellerScore' => 488,
-  'sitterSince' => '2014-04-28T18:54:29Z',
   'currency' => 'CAD',
   'rates' => 
   array (
