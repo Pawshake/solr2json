@@ -3,7 +3,7 @@
   'userName' => 'Li-an',
   'sitterId' => '486',
   'profileImageUrl' => 'sa://pictures/picture-462-1384012552.jpg',
-  'sitterName' => 'Rabbit Sit',
+  'sitterName' => 'Rabbit Sit Tierwohlfühlörtchen',
   'latitude' => 51.216904,
   'longitude' => 4.406088,
   'reviewCount' => 0,
