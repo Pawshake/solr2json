@@ -43,10 +43,10 @@ class Transformer
 
         return [
             'userId' => (string) $data['is_uid'],
-            'userName' => str_replace(["\n", "\r", chr(10), chr(13)], '', (string) $data['ss_initials']),
+            'userName' => str_replace(["\n", "\r"], '', (string) $data['ss_initials']),
             'sitterId' => (string) $data['entity_id'],
             'profileImageUrl' => (string) $data['ss_ms_user_image_url'],
-            'sitterName' => str_replace(["\n", "\r", chr(10), chr(13)], '', (string) $data['label']),
+            'sitterName' => str_replace(["\n", "\r"], '', (string) $data['label']),
             'latitude' => $location['lat'],
             'longitude' => $location['lon'],
             'reviewCount' => (int) (isset($data['is_reviews']) ? $data['is_reviews'] : 0),
