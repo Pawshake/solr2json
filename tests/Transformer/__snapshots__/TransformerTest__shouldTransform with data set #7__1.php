@@ -9,30 +9,27 @@
   'reviewCount' => 1,
   'rating' => 100,
   'sellerScore' => 0,
-  'globalRate' => 0,
-  'description' => 'Seitdem ich denken kann, liebe ich Tiere. Als Kind teilte ich mein Zuhause mit Kaninchen, Mäusen, Katzen und später eeendlich einem Hund.',
-  'language' => 'de-de',
   'sitterSince' => '2014-05-08T16:24:32Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 12.0,
+    'homeVisits' => 12.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

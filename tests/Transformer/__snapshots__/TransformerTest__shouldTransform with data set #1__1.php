@@ -9,30 +9,27 @@
   'reviewCount' => 5,
   'rating' => 98,
   'sellerScore' => 1132,
-  'globalRate' => 0,
-  'description' => 'Hey!',
-  'language' => 'nl-BE',
   'sitterSince' => '2013-12-10T08:59:26Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 15.0,
+    'homeVisits' => 15.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

@@ -9,30 +9,27 @@
   'reviewCount' => 12,
   'rating' => 97,
   'sellerScore' => 0,
-  'globalRate' => 0,
-  'description' => 'Mijn naam is Isabel en ik ben gepassioneerd door honden, vooral de grotere rassen! Natuurlijk zijn de kleine lievelingen ook welkom.',
-  'language' => 'nl-BE',
   'sitterSince' => '2014-01-25T07:54:11Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 9.0,
+    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

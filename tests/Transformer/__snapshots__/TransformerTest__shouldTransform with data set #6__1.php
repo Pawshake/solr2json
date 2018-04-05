@@ -9,30 +9,27 @@
   'reviewCount' => 7,
   'rating' => 100,
   'sellerScore' => 488,
-  'globalRate' => 0,
-  'description' => 'Nous sommes situés à Québec près du Domaine Maizeret. Il me fera plaisir de me déplacer et prendre soin de votre animal durant votre absence.',
-  'language' => 'fr-CA',
   'sitterSince' => '2014-04-28T18:54:29Z',
   'currency' => 'CAD',
   'rates' => 
   array (
-    'home_visits' => 17.0,
+    'homeVisits' => 17.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

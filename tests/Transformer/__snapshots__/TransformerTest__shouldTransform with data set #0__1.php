@@ -9,31 +9,27 @@
   'reviewCount' => 0,
   'rating' => 0,
   'sellerScore' => 1,
-  'globalRate' => 0,
-  'description' => 'I am currently MA student in jewelry design. I am 27 yrs old.
-Bunny lover. I have a bun" Kajiru".',
-  'language' => 'en-BE',
   'sitterSince' => '2013-11-10T15:07:55Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 9.0,
+    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

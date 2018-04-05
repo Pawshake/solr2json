@@ -9,30 +9,27 @@
   'reviewCount' => 1,
   'rating' => 100,
   'sellerScore' => 1,
-  'globalRate' => 0,
-  'description' => 'I am a 31 years old Swedish woman living in Sainte Catherine area in Brussels with my husband.',
-  'language' => 'en-BE',
   'sitterSince' => '2014-04-04T18:26:17Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 25.0,
+    'homeVisits' => 25.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

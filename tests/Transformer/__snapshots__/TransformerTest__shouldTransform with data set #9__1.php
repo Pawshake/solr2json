@@ -9,30 +9,27 @@
   'reviewCount' => 3,
   'rating' => 98,
   'sellerScore' => 500,
-  'globalRate' => 0,
-  'description' => 'Jeune pensionnée qui adore les animaux, sutout les chiens, j\'accueillerai votre chien dans une ambiance familiale. Amour et câlins garantis.',
-  'language' => 'fr-BE',
   'sitterSince' => '2014-07-22T10:45:14Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 9.0,
+    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

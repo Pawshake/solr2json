@@ -9,30 +9,27 @@
   'reviewCount' => 17,
   'rating' => 98,
   'sellerScore' => 53,
-  'globalRate' => 0,
-  'description' => 'Ik ben Karin en woon samen met mijn man Michael in Hoboken. We hebben samen 2 hondjes (Kaya en Sookie) en een poes (Lilly).',
-  'language' => 'nl-BE',
   'sitterSince' => '2013-12-12T09:42:35Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 9.0,
+    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 

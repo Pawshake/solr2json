@@ -9,31 +9,27 @@
   'reviewCount' => 1,
   'rating' => 84,
   'sellerScore' => 60,
-  'globalRate' => 0,
-  'description' => 'Ik woon in een rustig dorp met mooie plaatsen om te wandelen.
-Ik heb zelf 2 honden die maar al te graag mee gaan.',
-  'language' => 'nl-NL',
   'sitterSince' => '2014-05-15T21:32:08Z',
   'currency' => 'EUR',
   'rates' => 
   array (
-    'home_visits' => 10.0,
+    'homeVisits' => 10.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
     ),
-    'pet_boarding' => 
+    'petBoarding' => 
     array (
     ),
-    'doggy_day_care' => 
+    'doggyDayCare' => 
     array (
     ),
-    'dog_walking' => 
+    'dogWalking' => 
     array (
     ),
-    'home_visits' => 
+    'homeVisits' => 
     array (
     ),
     'sleepover' => 
