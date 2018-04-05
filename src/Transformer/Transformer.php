@@ -123,8 +123,6 @@ class Transformer
             }
         }
 
-        $availability = unserialize($data['zs_availability']);
-
         return [
             'userId' => (string) $data['is_uid'],
             'userName' => (string) $data['ss_initials'],
