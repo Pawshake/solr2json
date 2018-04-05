@@ -21,22 +21,18 @@ class Transformer
             'lon' => (float) $location[1],
         ];
 
-        $services = [];
         $serviceRates = [];
 
         if (isset($data['bm_field_host_pet_boarding'], $data['fts_field_host_rate_per_night']) && $data['bm_field_host_pet_boarding'][0] === 1) {
-            $services[] = self::PET_BOARDING;
             $result = $data['fts_field_host_rate_per_night'];
             $serviceRates['petBoarding'] = (float) reset($result);
         }
         if (isset($data['bm_field_host_walking'], $data['fts_field_dog_walking_rate']) && $data['bm_field_host_walking'][0] === 1) {
-            $services[] = self::DOG_WALKING;
             $result = $data['fts_field_dog_walking_rate'];
             $serviceRates['dogWalking'] = (float) reset($result);
         }
 
         if (isset($data['bm_field_host_daycare_in_my_home'], $data['fts_field_host_doggy_day_care_ra']) && $data['bm_field_host_daycare_in_my_home'][0] === 1) {
-            $services[] = self::DOGGY_DAY_CARE;
             $result = $data['fts_field_host_doggy_day_care_ra'];
             $serviceRates['doggyDayCare'] = (float) reset($result);
         }
@@ -44,12 +40,10 @@ class Transformer
             if (isset($data['fts_field_host_rate_one_home_vis'])) {
                 $one_visit_result = $data['fts_field_host_rate_one_home_vis'];
                 $serviceRates['homeVisits'] = (float) ($one_visit_result);
-                $services[] = self::HOME_VISITS;
             }
 
         }
         if (isset($data['bm_field_host_sleepover'], $data['fts_field_host_rate_sleepover']) && $data['bm_field_host_sleepover'][0] === 1) {
-            $services[] = self::SLEEPOVER;
             $result = $data['fts_field_host_rate_sleepover'];
             $serviceRates['sleepover'] = (float) reset($result);
         }
@@ -132,11 +126,11 @@ class Transformer
             'rates' => $serviceRates,
             'unavailable' => [
                 'general' => isset($data['dm_inavailable']) ? $data['dm_inavailable'] : [],
-                self::PET_BOARDING => isset($data['dm_inavailable_1']) ? $data['dm_inavailable_1'] : [],
-                self::DOGGY_DAY_CARE => isset($data['dm_inavailable_7']) ? $data['dm_inavailable_7'] : [],
-                self::DOG_WALKING => isset($data['dm_inavailable_6']) ? $data['dm_inavailable_6'] : [],
-                self::HOME_VISITS => isset($data['dm_inavailable_100']) ? $data['dm_inavailable_100'] : [],
-                self::SLEEPOVER => isset($data['dm_inavailable_4']) ? $data['dm_inavailable_4'] : [],
+                'petBoarding' => isset($data['dm_inavailable_1']) ? $data['dm_inavailable_1'] : [],
+                'doggyDayCare' => isset($data['dm_inavailable_7']) ? $data['dm_inavailable_7'] : [],
+                'dogWalking' => isset($data['dm_inavailable_6']) ? $data['dm_inavailable_6'] : [],
+                'homeVisits' => isset($data['dm_inavailable_100']) ? $data['dm_inavailable_100'] : [],
+                'sleepover' => isset($data['dm_inavailable_4']) ? $data['dm_inavailable_4'] : [],
             ]
 
         ];
