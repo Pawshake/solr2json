@@ -4,12 +4,6 @@ namespace Pawshake\Solr2json\Transformer;
 
 class Transformer
 {
-    const PET_BOARDING = 'pet_boarding';
-    const DOGGY_DAY_CARE = 'doggy_day_care';
-    const DOG_WALKING = 'dog_walking';
-    const HOME_VISITS = 'home_visits';
-    const SLEEPOVER = 'sleepover';
-
     public function transform(array $data)
     {
 
