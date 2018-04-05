@@ -201,7 +201,7 @@
     "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:1:\"2\";s:25:\"unique_users_pre_approved\";i:0;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:1:\"0\";s:27:\"unique_users_direct_booking\";s:1:\"0\";s:24:\"unique_users_booking_all\";s:1:\"0\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:1:\"2\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"0\";s:12:\"decline_rate\";i:0;s:23:\"total_inquiries_booking\";s:1:\"0\";s:32:\"unique_users_that_made_a_booking\";i:0;}",
     "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
     "is_reviews": 0,
-    "ss_initials": "Li-an",
+    "ss_initials": "Li-\ran",
     "ss_ms_user_image_url": "sa://pictures/picture-462-1384012552.jpg",
     "ss_short_content": "I am currently MA student in jewelry design. I am 27 yrs old.\nBunny lover. I have a bun\" Kajiru\".",
     "bs_petboarding": false,
