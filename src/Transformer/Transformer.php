@@ -61,7 +61,7 @@ class Transformer
             'petsitting_rate_minimum' => (float) (isset($data['fs_petsitting_rate_minimum']) ? $data['fs_petsitting_rate_minimum'] : 0),
         ];
 
-        $inquiry_info = unserialize($data['zs_inquiry_info'], ['allowed_classes' => true]);
+        $inquiry_info = unserialize($data['zs_inquiry_info']);
         $integers = [
             'unique_users_inquiry',
             'unique_users_pre_approved',
@@ -82,7 +82,7 @@ class Transformer
                 $inquiry_info[$integer] = (int) $inquiry_info[$integer];
             }
         }
-        $pm_info = unserialize($data['zs_pm_info'], ['allowed_classes' => true]);
+        $pm_info = unserialize($data['zs_pm_info']);
         $integers = [
             'threads_all',
             'messages_all',
@@ -123,7 +123,7 @@ class Transformer
             }
         }
 
-        $availability = unserialize($data['zs_availability'], ['allowed_classes' => true]);
+        $availability = unserialize($data['zs_availability']);
 
         return [
             'userId' => (string) $data['is_uid'],
