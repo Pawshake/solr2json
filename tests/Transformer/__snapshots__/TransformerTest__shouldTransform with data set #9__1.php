@@ -1,6 +1,6 @@
 <?php return array (
   'userId' => '23355',
-  'userName' => 'Angela',
+  'userName' => 'Angelina Joly',
   'sitterId' => '16866',
   'profileImageUrl' => 'sa://user/image/2014/07/angela62_0.jpg',
   'sitterName' => 'Au Bonheur Des Chiens',
