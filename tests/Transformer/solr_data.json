@@ -11,7 +11,7 @@
     "path": "node/486",
     "url": "http://en.pawshake.be/petsitters/antwerpen/rabbit-sit-486",
     "path_alias": "petsitters/antwerpen/rabbit-sit-486",
-    "label": "Rabbit Sit",
+    "label": "Rabbit Sit Tierwohlfühlörtchen",
     "spell": [
       "Rabbit Sit",
       " Jodenstraat.8 2000 Antwerpen Belgium I am currently MA student in jewelry design.  I am 27 yrs old. Bunny lover. I have a bun&quot; Kajiru&quot;. We live in the center of Antwerp city. Rabbits are mostly welcome! I would also pet sit other small animals like cavias, hamsters, chincillas or birds and fishes. But no reptiles.  yes no 15 yes Flexible 8.00 no Latitude: 51.216904000000 Longitude: 4.406088000000 no yes yes no 1 1 no no 9.00 15.00 28.00 no no no no no no cat sitting dog sitting doggy day care dog grooming Host vetting status:  Legacy vetted ",
@@ -107,7 +107,9 @@
     "ftm_field_host_rate_one_home_vis": [
       9.0
     ],
-    "fts_field_host_rate_one_home_vis": 9.0,
+    "fts_field_host_rate_one_home_vis": [
+      9.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -115,7 +117,9 @@
     "ftm_field_host_rate_two_home_vis": [
       15.0
     ],
-    "fts_field_host_rate_two_home_vis": 15.0,
+    "fts_field_host_rate_two_home_vis": [
+      15.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -350,7 +354,9 @@
     "ftm_field_host_rate_one_home_vis": [
       15.0
     ],
-    "fts_field_host_rate_one_home_vis": 15.0,
+    "fts_field_host_rate_one_home_vis": [
+      15.0
+    ],
     "ftm_field_host_rate_sleepover": [
       50.0
     ],
@@ -358,7 +364,9 @@
     "ftm_field_host_rate_two_home_vis": [
       20.0
     ],
-    "fts_field_host_rate_two_home_vis": 20.0,
+    "fts_field_host_rate_two_home_vis": [
+      20.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -708,7 +716,9 @@
     "ftm_field_host_rate_one_home_vis": [
       9.0
     ],
-    "fts_field_host_rate_one_home_vis": 9.0,
+    "fts_field_host_rate_one_home_vis": [
+      9.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -716,7 +726,9 @@
     "ftm_field_host_rate_two_home_vis": [
       15.0
     ],
-    "fts_field_host_rate_two_home_vis": 15.0,
+    "fts_field_host_rate_two_home_vis": [
+      15.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -1035,7 +1047,9 @@
     "ftm_field_host_rate_one_home_vis": [
       9.0
     ],
-    "fts_field_host_rate_one_home_vis": 9.0,
+    "fts_field_host_rate_one_home_vis": [
+      9.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -1043,7 +1057,9 @@
     "ftm_field_host_rate_two_home_vis": [
       12.0
     ],
-    "fts_field_host_rate_two_home_vis": 12.0,
+    "fts_field_host_rate_two_home_vis": [
+      12.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -1333,7 +1349,9 @@
     "ftm_field_host_rate_one_home_vis": [
       25.0
     ],
-    "fts_field_host_rate_one_home_vis": 25.0,
+    "fts_field_host_rate_one_home_vis": [
+      25.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -1341,7 +1359,9 @@
     "ftm_field_host_rate_two_home_vis": [
       45.0
     ],
-    "fts_field_host_rate_two_home_vis": 45.0,
+    "fts_field_host_rate_two_home_vis": [
+      45.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -1656,7 +1676,9 @@
     "ftm_field_host_rate_one_home_vis": [
       12.0
     ],
-    "fts_field_host_rate_one_home_vis": 12.0,
+    "fts_field_host_rate_one_home_vis": [
+      12.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -1664,7 +1686,9 @@
     "ftm_field_host_rate_two_home_vis": [
       14.5
     ],
-    "fts_field_host_rate_two_home_vis": 14.5,
+    "fts_field_host_rate_two_home_vis": [
+      14.5
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -1988,7 +2012,9 @@
     "ftm_field_host_rate_one_home_vis": [
       17.0
     ],
-    "fts_field_host_rate_one_home_vis": 17.0,
+    "fts_field_host_rate_one_home_vis": [
+      17.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -1996,7 +2022,9 @@
     "ftm_field_host_rate_two_home_vis": [
       30.0
     ],
-    "fts_field_host_rate_two_home_vis": 30.0,
+    "fts_field_host_rate_two_home_vis": [
+      30.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -2282,7 +2310,9 @@
     "ftm_field_host_rate_one_home_vis": [
       12.0
     ],
-    "fts_field_host_rate_one_home_vis": 12.0,
+    "fts_field_host_rate_one_home_vis": [
+      12.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -2290,7 +2320,9 @@
     "ftm_field_host_rate_two_home_vis": [
       12.0
     ],
-    "fts_field_host_rate_two_home_vis": 12.0,
+    "fts_field_host_rate_two_home_vis": [
+      12.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
@@ -2602,7 +2634,9 @@
     "ftm_field_host_rate_one_home_vis": [
       10.0
     ],
-    "fts_field_host_rate_one_home_vis": 10.0,
+    "fts_field_host_rate_one_home_vis": [
+      10.0
+    ],
     "ftm_field_host_rate_sleepover": [
       15.0
     ],
@@ -2610,7 +2644,9 @@
     "ftm_field_host_rate_two_home_vis": [
       20.0
     ],
-    "fts_field_host_rate_two_home_vis": 20.0,
+    "fts_field_host_rate_two_home_vis": [
+      20.0
+    ],
     "bm_field_host_sleepover": [
       true
     ],
@@ -2958,7 +2994,9 @@
     "ftm_field_host_rate_one_home_vis": [
       9.0
     ],
-    "fts_field_host_rate_one_home_vis": 9.0,
+    "fts_field_host_rate_one_home_vis": [
+      9.0
+    ],
     "ftm_field_host_rate_sleepover": [
       28.0
     ],
@@ -2966,7 +3004,9 @@
     "ftm_field_host_rate_two_home_vis": [
       12.0
     ],
-    "fts_field_host_rate_two_home_vis": 12.0,
+    "fts_field_host_rate_two_home_vis": [
+      12.0
+    ],
     "bm_field_host_sleepover": [
       false
     ],
