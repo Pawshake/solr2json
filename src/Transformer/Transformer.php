@@ -52,6 +52,7 @@ class Transformer
             'rating' => (int) $data['fs_rating'],
             'sellerScore' => (int) (isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
             'currency' => (string) $data['ss_currency_raw'],
+            'sitterSinceTimestamp' => (string) $data['ds_created'],
             'rates' => $serviceRates,
             'unavailable' => [
                 'general' => isset($data['dm_inavailable']) ? $data['dm_inavailable'] : [],
