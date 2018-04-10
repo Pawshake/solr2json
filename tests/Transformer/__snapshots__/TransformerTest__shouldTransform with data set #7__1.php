@@ -10,6 +10,7 @@
   'rating' => 100,
   'sellerScore' => 0,
   'currency' => 'EUR',
+  'sitterSinceTimestamp' => '2014-05-08T16:24:32Z',
   'rates' => 
   array (
     'homeVisits' => 12.0,

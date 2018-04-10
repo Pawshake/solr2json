@@ -43,10 +43,10 @@ class Transformer
 
         return [
             'userId' => (string) $data['is_uid'],
-            'userName' => str_replace(["\n", "\r"], '', (string) $data['ss_initials']),
+            'userName' => $this->buildUserName($data),
             'sitterId' => (string) $data['entity_id'],
             'profileImageUrl' => (string) $data['ss_ms_user_image_url'],
-            'sitterName' => str_replace(["\n", "\r"], '', (string) $data['label']),
+            'sitterName' => $this->buildSitterName($data),
             'latitude' => $location['lat'],
             'longitude' => $location['lon'],
             'reviewCount' => (int) (isset($data['is_reviews']) ? $data['is_reviews'] : 0),
@@ -65,5 +65,23 @@ class Transformer
             ]
 
         ];
+    }
+
+    private function buildUserName(array $data): string
+    {
+        return
+            html_entity_decode(
+                str_replace(["\n", "\r"], '', (string) $data['ss_initials']),
+                ENT_QUOTES
+            );
+    }
+
+    private function buildSitterName(array $data): string
+    {
+        return
+            html_entity_decode(
+                str_replace(["\n", "\r"], '', (string) $data['label']),
+                ENT_QUOTES
+            );
     }
 }

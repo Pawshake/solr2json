@@ -3,13 +3,14 @@
   'userName' => 'Karin',
   'sitterId' => '1046',
   'profileImageUrl' => 'sa://user/image/2013/12/dsc00006_1.jpg',
-  'sitterName' => 'Frenchi Paradijs Bij Karin',
+  'sitterName' => 'Frenchi\'s Paradijs Bij Karin',
   'latitude' => 51.1605246,
   'longitude' => 4.349863,
   'reviewCount' => 17,
   'rating' => 98,
   'sellerScore' => 53,
   'currency' => 'EUR',
+  'sitterSinceTimestamp' => '2013-12-12T09:42:35Z',
   'rates' => 
   array (
     'homeVisits' => 9.0,
