@@ -7,7 +7,7 @@
   'latitude' => 51.8033155,
   'longitude' => 5.3279327,
   'reviewCount' => 1,
-  'rating' => 84,
+  'starRating' => 4,
   'sellerScore' => 60,
   'currency' => 'EUR',
   'sitterSinceTimestamp' => '2014-05-15T21:32:08Z',

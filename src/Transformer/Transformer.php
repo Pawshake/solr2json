@@ -50,7 +50,7 @@ class Transformer
             'latitude' => $location['lat'],
             'longitude' => $location['lon'],
             'reviewCount' => (int) (isset($data['is_reviews']) ? $data['is_reviews'] : 0),
-            'rating' => (int) $data['fs_rating'],
+            'starRating' => (int) round((int) $data['fs_rating'] / 20, 0, PHP_ROUND_HALF_UP),
             'sellerScore' => (int) (isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
             'currency' => (string) $data['ss_currency_raw'],
             'sitterSinceTimestamp' => (string) $data['ds_created'],
