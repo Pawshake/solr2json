@@ -41,6 +41,15 @@ class Transformer
             $serviceRates['sleepover'] = (float)reset($data['fts_field_host_rate_sleepover']);
         }
 
+        $lastBookedTimestamp = (int)$data['is_lb'];
+        $lastContactedTimestamp = (int)$data['is_lc'];
+        $averageResponseTimeInSeconds = isset($data['avg_response_time_int_all']) ? $data['avg_response_time_int_all'] : 0;
+
+        $pets = [];
+        if ($data['is_nr_of_dogs']) {
+            $pets['dogs'] = $data['is_nr_of_dogs'];
+        }
+
         return [
             'userId' => (string)$data['is_uid'],
             'userName' => $this->buildUserName($data),
@@ -63,6 +72,15 @@ class Transformer
                 'homeVisits' => isset($data['dm_inavailable_100']) ? $data['dm_inavailable_100'] : [],
                 'sleepover' => isset($data['dm_inavailable_4']) ? $data['dm_inavailable_4'] : [],
             ],
+            'lastActiveOn' => null,
+            'recurringGuests' => (int)$data['is_rbookings'],
+            'lastBookedOn' => $this->convertToDateTimeImmutable($lastBookedTimestamp),
+            'lastContactedOn' => $this->convertToDateTimeImmutable($lastContactedTimestamp),
+            'pendingBookings' => (int)$data['is_pb'],
+            'sitterPets' => $pets,
+            'sitterPetBreed' => $data['ss_breed_name'] ?: null,
+            'sitterPetName' => $data['ss_dog_name'] ?: null,
+            'responseTimeInHours' => round($averageResponseTimeInSeconds / (60 * 60)),
         ];
     }
 
@@ -82,5 +100,10 @@ class Transformer
                 str_replace(["\n", "\r"], '', (string)$data['label']),
                 ENT_QUOTES
             );
+    }
+
+    private function convertToDateTimeImmutable(int $timestamp)
+    {
+        return $timestamp ? (new \DateTimeImmutable())->setTimestamp($timestamp) : null;
     }
 }
