@@ -102,7 +102,7 @@ class Transformer
             );
     }
 
-    private function convertToDateTimeImmutable(int $timestamp)
+    private function convertToDateTimeImmutable($timestamp)
     {
         return $timestamp ? (new \DateTimeImmutable())->setTimestamp($timestamp)->format('c') : null;
     }
