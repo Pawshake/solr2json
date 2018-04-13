@@ -80,7 +80,7 @@ class Transformer
             'sitterPets' => $pets,
             'sitterPetBreed' => $data['ss_breed_name'] ?: null,
             'sitterPetName' => $data['ss_dog_name'] ?: null,
-            'responseTimeInHours' => round($averageResponseTimeInSeconds / (60 * 60)),
+            'responseTimeInHours' => (int) round($averageResponseTimeInSeconds / (60 * 60)),
         ];
     }
 
@@ -104,6 +104,6 @@ class Transformer
 
     private function convertToDateTimeImmutable(int $timestamp)
     {
-        return $timestamp ? (new \DateTimeImmutable())->setTimestamp($timestamp) : null;
+        return $timestamp ? (new \DateTimeImmutable())->setTimestamp($timestamp)->format('c') : null;
     }
 }

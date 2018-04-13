@@ -36,4 +36,15 @@
     array (
     ),
   ),
+  'lastActiveOn' => NULL,
+  'recurringGuests' => 3,
+  'lastBookedOn' => '2016-08-26T19:11:10+00:00',
+  'lastContactedOn' => '2017-09-08T11:01:26+00:00',
+  'pendingBookings' => 1,
+  'sitterPets' => 
+  array (
+  ),
+  'sitterPetBreed' => NULL,
+  'sitterPetName' => NULL,
+  'responseTimeInHours' => 0,
 );

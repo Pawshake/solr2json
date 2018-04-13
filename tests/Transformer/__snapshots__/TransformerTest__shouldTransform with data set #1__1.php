@@ -36,4 +36,16 @@
     array (
     ),
   ),
+  'lastActiveOn' => NULL,
+  'recurringGuests' => 3,
+  'lastBookedOn' => '2017-07-19T20:58:30+00:00',
+  'lastContactedOn' => '2017-08-30T13:02:20+00:00',
+  'pendingBookings' => 0,
+  'sitterPets' => 
+  array (
+    'dogs' => 2,
+  ),
+  'sitterPetBreed' => 'Border Collie',
+  'sitterPetName' => 'Sally',
+  'responseTimeInHours' => 0,
 );
