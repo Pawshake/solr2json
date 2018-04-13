@@ -48,4 +48,13 @@
   'sitterPetBreed' => 'spitz nain',
   'sitterPetName' => 'Bijou',
   'responseTimeInHours' => 0,
+  'capacity' => 
+  array (
+    'smallDog' => 10,
+    'mediumDog' => 10,
+    'largeDog' => 0,
+    'giantDog' => 0,
+    'cat' => 10,
+    'smallAnimal' => 10,
+  ),
 );

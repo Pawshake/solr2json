@@ -47,4 +47,13 @@
   'sitterPetBreed' => NULL,
   'sitterPetName' => NULL,
   'responseTimeInHours' => 0,
+  'capacity' => 
+  array (
+    'smallDog' => 0,
+    'mediumDog' => 0,
+    'largeDog' => 0,
+    'giantDog' => 0,
+    'cat' => 0,
+    'smallAnimal' => 0,
+  ),
 );
