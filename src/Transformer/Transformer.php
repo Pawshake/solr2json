@@ -6,12 +6,11 @@ class Transformer
 {
     public function transform(array $data)
     {
-        $geocode = $data['locm_field_host_geocode'];
-        $location = explode(',', $geocode[0]);
+        $location = explode(',', $data['locs_field_host_geocode']);
 
         $location = [
-            'lat' => (float)$location[0],
-            'lon' => (float)$location[1],
+            'lat' => (float) $location[0],
+            'lon' => (float) $location[1],
         ];
 
         $serviceRates = [];
