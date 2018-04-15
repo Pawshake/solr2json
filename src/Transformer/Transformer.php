@@ -6,7 +6,8 @@ class Transformer
 {
     public function transform(array $data)
     {
-        $location = explode(',', $data['locs_field_host_geocode']);
+        $geocode = $data['locs_field_host_geocode'];
+        $location = explode(',', $geocode[0]);
 
         $location = [
             'lat' => (float) $location[0],
