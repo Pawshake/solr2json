@@ -6,12 +6,12 @@ class Transformer
 {
     public function transform(array $data)
     {
-        $geocode = $data['locm_field_host_geocode'];
+        $geocode = $data['locs_field_host_geocode'];
         $location = explode(',', $geocode[0]);
 
         $location = [
-            'lat' => (float)$location[0],
-            'lon' => (float)$location[1],
+            'lat' => (float) $location[0],
+            'lon' => (float) $location[1],
         ];
 
         $serviceRates = [];
@@ -62,7 +62,7 @@ class Transformer
             'starRating' => (int)round((int)$data['fs_rating'] / 20, 0, PHP_ROUND_HALF_UP),
             'sellerScore' => (int)(isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
             'currency' => (string)$data['ss_currency_raw'],
-            'sitterSinceTimestamp' => (string)$data['ds_created'],
+            'sitterSinceTimestamp' => (int) $data['ds_created'],
             'rates' => $serviceRates,
             'unavailable' => [
                 'general' => isset($data['dm_inavailable']) ? $data['dm_inavailable'] : [],
@@ -73,10 +73,10 @@ class Transformer
                 'sleepover' => isset($data['dm_inavailable_4']) ? $data['dm_inavailable_4'] : [],
             ],
             'lastActiveOn' => null,
-            'recurringGuests' => (int)$data['is_rbookings'],
+            'recurringGuests' => (int) $data['is_rbookings'],
             'lastBookedOn' => $this->convertToDateTimeImmutable($lastBookedTimestamp),
             'lastContactedOn' => $this->convertToDateTimeImmutable($lastContactedTimestamp),
-            'pendingBookings' => (int)$data['is_pb'],
+            'pendingBookings' => (int) $data['is_pb'],
             'sitterPets' => $pets,
             'sitterPetBreed' => $data['ss_breed_name'] ?: null,
             'sitterPetName' => $data['ss_dog_name'] ?: null,
