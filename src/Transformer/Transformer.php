@@ -81,6 +81,14 @@ class Transformer
             'sitterPetBreed' => $data['ss_breed_name'] ?: null,
             'sitterPetName' => $data['ss_dog_name'] ?: null,
             'responseTimeInHours' => (int)round($averageResponseTimeInSeconds / (60 * 60)),
+            'capacity' => [
+                'smallDog' => $data['bs_small'] ? 10 : 0,
+                'mediumDog' => $data['bs_small'] ? 10 : 0,
+                'largeDog' => $data['bs_large'] ? 10 : 0,
+                'giantDog' => $data['bs_large'] ? 10 : 0,
+                'cat' => $data['bs_small'] ? 10 : 0,
+                'smallAnimal' => $data['bs_small'] ? 10 : 0,
+            ]
         ];
     }
 
