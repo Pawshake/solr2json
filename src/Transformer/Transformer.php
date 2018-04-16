@@ -10,8 +10,8 @@ class Transformer
         $location = explode(',', $geocode[0]);
 
         $location = [
-            'lat' => (float) $location[0],
-            'lon' => (float) $location[1],
+            'lat' => (float)$location[0],
+            'lon' => (float)$location[1],
         ];
 
         $serviceRates = [];
@@ -62,7 +62,7 @@ class Transformer
             'starRating' => (int)round((int)$data['fs_rating'] / 20, 0, PHP_ROUND_HALF_UP),
             'sellerScore' => (int)(isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
             'currency' => (string)$data['ss_currency_raw'],
-            'sitterSinceTimestamp' => (int) $data['ds_created'],
+            'sitterSinceTimestamp' => (int)$data['ds_created'],
             'rates' => $serviceRates,
             'unavailable' => [
                 'general' => isset($data['dm_inavailable']) ? $data['dm_inavailable'] : [],
@@ -73,10 +73,10 @@ class Transformer
                 'sleepover' => isset($data['dm_inavailable_4']) ? $data['dm_inavailable_4'] : [],
             ],
             'lastActiveOn' => null,
-            'recurringGuests' => (int) $data['is_rbookings'],
+            'recurringGuests' => (int)$data['is_rbookings'],
             'lastBookedOn' => $this->convertToDateTimeImmutable($lastBookedTimestamp),
             'lastContactedOn' => $this->convertToDateTimeImmutable($lastContactedTimestamp),
-            'pendingBookings' => (int) $data['is_pb'],
+            'pendingBookings' => (int)$data['is_pb'],
             'sitterPets' => $pets,
             'sitterPetBreed' => $data['ss_breed_name'] ?: null,
             'sitterPetName' => $data['ss_dog_name'] ?: null,
@@ -88,7 +88,10 @@ class Transformer
                 'giantDog' => $data['bs_large'] ? 10 : 0,
                 'cat' => $data['bs_small'] ? 10 : 0,
                 'smallAnimal' => $data['bs_small'] ? 10 : 0,
-            ]
+            ],
+            'sitterHasFullyFencedBackyard' => isset($data['bm_field_host_fenced_backyard']) ? $data['bm_field_host_fenced_backyard'][0] : null,
+            'sitterHasNoDog' => isset($data['bs_has_no_dogs']) ? $data['bs_has_no_dogs'] : null,
+            'sitterHasNoChildren' => isset($data['bs_has_no_children']) ? $data['bs_has_no_children'] : null
         ];
     }
 
