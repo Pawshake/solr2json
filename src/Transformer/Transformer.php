@@ -54,7 +54,10 @@ class Transformer
             'userId' => (string)$data['is_uid'],
             'userName' => $this->buildUserName($data),
             'sitterId' => (string)$data['entity_id'],
-            'profileImageUrl' => (string)$data['ss_ms_user_image_url'],
+            'profileImage' => [
+                'circle' => (string)$data['ss_ms_user_image_url'],
+                'square' => (string)$data['ss_ms_user_image_square_url'],
+            ],
             'sitterName' => $this->buildSitterName($data),
             'latitude' => $location['lat'],
             'longitude' => $location['lon'],
