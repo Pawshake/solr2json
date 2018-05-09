@@ -52,13 +52,12 @@ class Transformer
 
         return [
             'userId' => (string)$data['is_uid'],
-            'userName' => $this->buildUserName($data),
+            'userName' => $this->cleanUpDrupalString($data['ss_initials']),
             'sitterId' => (string)$data['entity_id'],
-            'profileImage' => [
-                'circle' => (string)$data['ss_ms_user_image_url'],
-                'square' => (string)$data['ss_ms_user_image_square_url'],
-            ],
-            'sitterName' => $this->buildSitterName($data),
+            'profileImageUrl' => (string)$data['ss_ms_user_image_url'],
+            'backdropImageUrl' => isset($data['ss_ms_user_image_square_url']) ? (string)$data['ss_ms_user_image_square_url'] : null,
+            'sitterName' => $this->cleanUpDrupalString($data['label']),
+            'sitterDescription' => $this->cleanUpDrupalString($data['content']),
             'latitude' => $location['lat'],
             'longitude' => $location['lon'],
             'reviewCount' => (int)(isset($data['is_reviews']) ? $data['is_reviews'] : 0),
@@ -98,22 +97,16 @@ class Transformer
         ];
     }
 
-    private function buildUserName(array $data)
+    private function cleanUpDrupalString(string $string)
     {
-        return
-            html_entity_decode(
-                str_replace(["\n", "\r"], '', (string)$data['ss_initials']),
-                ENT_QUOTES
-            );
-    }
+        $htmlEntityDecoded = html_entity_decode(
+            str_replace(["\n", "\r"], '', $string),
+            ENT_QUOTES
+        );
 
-    private function buildSitterName(array $data)
-    {
-        return
-            html_entity_decode(
-                str_replace(["\n", "\r"], '', (string)$data['label']),
-                ENT_QUOTES
-            );
+        $withoutNonBreakingWhiteSpaces = str_replace("\xc2\xa0", ' ', $htmlEntityDecoded);
+
+        return trim($withoutNonBreakingWhiteSpaces);
     }
 
     private function convertToDateTimeImmutable($timestamp)

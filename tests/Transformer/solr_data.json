@@ -36,7 +36,7 @@
     "locm_field_host_geocode": [
       "51.216904000000,4.406088000000"
     ],
-    "locs_field_host_geocode": [ "51.216904000000,4.406088000000"],
+    "locs_field_host_geocode": ["51.216904000000,4.406088000000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -1279,7 +1279,7 @@
     "locm_field_host_geocode": [
       "50.854614900000,4.348301300000"
     ],
-    "locs_field_host_geocode": [ "50.854614900000,4.348301300000"],
+    "locs_field_host_geocode": ["50.854614900000,4.348301300000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -1579,7 +1579,7 @@
     "locm_field_host_geocode": [
       "50.773733500000,4.466659700000"
     ],
-    "locs_field_host_geocode":[ "50.773733500000,4.466659700000"],
+    "locs_field_host_geocode": ["50.773733500000,4.466659700000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -1916,7 +1916,7 @@
     "locm_field_host_geocode": [
       "46.840541900000,-71.215515400000"
     ],
-    "locs_field_host_geocode": [ "46.840541900000,-71.215515400000"],
+    "locs_field_host_geocode": ["46.840541900000,-71.215515400000"],
     "im_field_host_cancellation_polic": [
       2
     ],
@@ -2240,7 +2240,7 @@
     "locm_field_host_geocode": [
       "53.652280000000,10.276990000000"
     ],
-    "locs_field_host_geocode": [ "53.652280000000,10.276990000000"],
+    "locs_field_host_geocode": ["53.652280000000,10.276990000000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -2534,7 +2534,7 @@
     "locm_field_host_geocode": [
       "51.803315500000,5.327932700000"
     ],
-    "locs_field_host_geocode": [ "51.803315500000,5.327932700000"],
+    "locs_field_host_geocode": ["51.803315500000,5.327932700000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -2899,7 +2899,7 @@
     "locm_field_host_geocode": [
       "50.835469800000,4.393093700000"
     ],
-    "locs_field_host_geocode": [ "50.835469800000,4.393093700000"],
+    "locs_field_host_geocode": ["50.835469800000,4.393093700000"],
     "im_field_host_cancellation_polic": [
       1
     ],
