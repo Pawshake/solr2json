@@ -57,7 +57,7 @@ class Transformer
             'profileImageUrl' => (string)$data['ss_ms_user_image_url'],
             'backdropImageUrl' => isset($data['ss_ms_user_image_square_url']) ? (string)$data['ss_ms_user_image_square_url'] : null,
             'sitterName' => $this->cleanUpDrupalString($data['label']),
-            'sitterDescription' => $this->cleanUpDrupalString($data['content']),
+            'shortDescription' => isset($data['ss_short_content']) ? $this->cleanUpDrupalString($data['ss_short_content']) : null,
             'latitude' => $location['lat'],
             'longitude' => $location['lon'],
             'reviewCount' => (int)(isset($data['is_reviews']) ? $data['is_reviews'] : 0),

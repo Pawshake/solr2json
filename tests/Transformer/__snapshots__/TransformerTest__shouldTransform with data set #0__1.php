@@ -5,7 +5,7 @@
   'profileImageUrl' => 'sa://pictures/picture-462-1384012552.jpg',
   'backdropImageUrl' => NULL,
   'sitterName' => 'Rabbit Sit Tierwohlfühlörtchen',
-  'sitterDescription' => 'Jodenstraat.8 2000 Antwerpen Belgium I am currently MA student in jewelry design.  I am 27 yrs old. Bunny lover. I have a bun" Kajiru". We live in the center of Antwerp city. Rabbits are mostly welcome! I would also pet sit other small animals like cavias, hamsters, chincillas or birds and fishes. But no reptiles.  yes no 15 yes Flexible 8.00 no Latitude: 51.216904000000 Longitude: 4.406088000000 no yes yes no 1 1 no no 9.00 15.00 28.00 no no no no no no cat sitting dog sitting doggy day care dog grooming Host vetting status:  Legacy vetted',
+  'shortDescription' => 'I am currently MA student in jewelry design. I am 27 yrs old.Bunny lover. I have a bun" Kajiru".',
   'latitude' => 51.216904,
   'longitude' => 4.406088,
   'reviewCount' => 0,
