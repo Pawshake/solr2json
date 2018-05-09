@@ -36,7 +36,7 @@
     "locm_field_host_geocode": [
       "51.216904000000,4.406088000000"
     ],
-    "locs_field_host_geocode": "51.216904000000,4.406088000000",
+    "locs_field_host_geocode": [ "51.216904000000,4.406088000000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -256,7 +256,7 @@
     "locm_field_host_geocode": [
       "51.227366200000,4.528772100000"
     ],
-    "locs_field_host_geocode": "51.227366200000,4.528772100000",
+    "locs_field_host_geocode": ["51.227366200000,4.528772100000"],
     "im_field_host_cancellation_polic": [
       3
     ],
@@ -621,7 +621,7 @@
     "locm_field_host_geocode": [
       "51.160524600000,4.349863000000"
     ],
-    "locs_field_host_geocode": "51.160524600000,4.349863000000",
+    "locs_field_host_geocode": ["51.160524600000,4.349863000000"],
     "im_field_host_cancellation_polic": [
       2
     ],
@@ -951,7 +951,7 @@
     "locm_field_host_geocode": [
       "51.098572600000,3.977895400000"
     ],
-    "locs_field_host_geocode": "51.098572600000,3.977895400000",
+    "locs_field_host_geocode": ["51.098572600000,3.977895400000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -1279,7 +1279,7 @@
     "locm_field_host_geocode": [
       "50.854614900000,4.348301300000"
     ],
-    "locs_field_host_geocode": "50.854614900000,4.348301300000",
+    "locs_field_host_geocode": [ "50.854614900000,4.348301300000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -1579,7 +1579,7 @@
     "locm_field_host_geocode": [
       "50.773733500000,4.466659700000"
     ],
-    "locs_field_host_geocode": "50.773733500000,4.466659700000",
+    "locs_field_host_geocode":[ "50.773733500000,4.466659700000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -1916,7 +1916,7 @@
     "locm_field_host_geocode": [
       "46.840541900000,-71.215515400000"
     ],
-    "locs_field_host_geocode": "46.840541900000,-71.215515400000",
+    "locs_field_host_geocode": [ "46.840541900000,-71.215515400000"],
     "im_field_host_cancellation_polic": [
       2
     ],
@@ -2191,7 +2191,7 @@
     "zs_inquiry_info": "a:14:{s:20:\"unique_users_inquiry\";s:1:\"6\";s:25:\"unique_users_pre_approved\";i:0;s:44:\"unique_users_pre_approved_and_made_a_booking\";i:0;s:21:\"unique_users_declined\";s:1:\"6\";s:27:\"unique_users_direct_booking\";s:1:\"0\";s:24:\"unique_users_booking_all\";s:1:\"0\";s:29:\"unique_users_pre_approved_90d\";i:0;s:48:\"unique_users_pre_approved_and_made_a_booking_90d\";i:0;s:15:\"total_inquiries\";s:1:\"6\";s:27:\"total_inquiries_preapproved\";s:1:\"0\";s:24:\"total_inquiries_declined\";s:1:\"6\";s:12:\"decline_rate\";d:100;s:23:\"total_inquiries_booking\";s:1:\"0\";s:32:\"unique_users_that_made_a_booking\";s:1:\"7\";}",
     "zs_availability": "a:1:{i:0;a:4:{s:4:\"text\";s:25:\"Available for Xmas period\";s:4:\"type\";s:9:\"available\";s:14:\"use_pawshake_t\";b:1;s:7:\"expires\";s:10:\"1513897200\";}}",
     "is_reviews": 7,
-    "ss_initials": "Nathalie",
+    "ss_initials": "Nathalie & Steven",
     "ss_ms_user_image_url": "sa://facebook/2014/04/996928_10151640637533985_821083941_n.jpg",
     "ss_short_content": "Nous sommes situés à Québec près du Domaine Maizeret. Il me fera plaisir de me déplacer et prendre soin de votre animal durant votre absence.",
     "bs_petboarding": false,
@@ -2240,7 +2240,7 @@
     "locm_field_host_geocode": [
       "53.652280000000,10.276990000000"
     ],
-    "locs_field_host_geocode": "53.652280000000,10.276990000000",
+    "locs_field_host_geocode": [ "53.652280000000,10.276990000000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -2534,7 +2534,7 @@
     "locm_field_host_geocode": [
       "51.803315500000,5.327932700000"
     ],
-    "locs_field_host_geocode": "51.803315500000,5.327932700000",
+    "locs_field_host_geocode": [ "51.803315500000,5.327932700000"],
     "im_field_host_cancellation_polic": [
       1
     ],
@@ -2899,7 +2899,7 @@
     "locm_field_host_geocode": [
       "50.835469800000,4.393093700000"
     ],
-    "locs_field_host_geocode": "50.835469800000,4.393093700000",
+    "locs_field_host_geocode": [ "50.835469800000,4.393093700000"],
     "im_field_host_cancellation_polic": [
       1
     ],

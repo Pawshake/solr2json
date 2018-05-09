@@ -10,7 +10,7 @@
   'starRating' => 5,
   'sellerScore' => 0,
   'currency' => 'EUR',
-  'sitterSinceTimestamp' => '2014-01-25T07:54:11Z',
+  'sitterSince' => '2014-01-25T07:54:11Z',
   'rates' => 
   array (
     'homeVisits' => 9.0,
@@ -56,4 +56,7 @@
     'cat' => 10,
     'smallAnimal' => 10,
   ),
+  'sitterHasFullyFencedBackyard' => true,
+  'sitterHasNoDog' => true,
+  'sitterHasNoChildren' => false,
 );

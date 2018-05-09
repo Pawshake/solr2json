@@ -1,6 +1,6 @@
 <?php return array (
   'userId' => '10341',
-  'userName' => 'Nathalie',
+  'userName' => 'Nathalie & Steven',
   'sitterId' => '6164',
   'profileImageUrl' => 'sa://facebook/2014/04/996928_10151640637533985_821083941_n.jpg',
   'sitterName' => 'Chez Heidi',
@@ -10,7 +10,7 @@
   'starRating' => 5,
   'sellerScore' => 488,
   'currency' => 'CAD',
-  'sitterSinceTimestamp' => '2014-04-28T18:54:29Z',
+  'sitterSince' => '2014-04-28T18:54:29Z',
   'rates' => 
   array (
     'homeVisits' => 17.0,
@@ -57,4 +57,7 @@
     'cat' => 0,
     'smallAnimal' => 0,
   ),
+  'sitterHasFullyFencedBackyard' => false,
+  'sitterHasNoDog' => false,
+  'sitterHasNoChildren' => true,
 );
