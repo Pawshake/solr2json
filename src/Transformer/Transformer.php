@@ -97,7 +97,7 @@ class Transformer
         ];
     }
 
-    private function cleanUpDrupalString(string $string)
+    private function cleanUpDrupalString($string)
     {
         $htmlEntityDecoded = html_entity_decode(
             str_replace(["\n", "\r"], '', $string),
