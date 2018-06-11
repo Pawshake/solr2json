@@ -14,7 +14,6 @@
   'sitterSince' => '2014-01-25T07:54:11Z',
   'rates' => 
   array (
-    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (
