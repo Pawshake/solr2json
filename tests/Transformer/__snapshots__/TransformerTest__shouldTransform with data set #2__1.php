@@ -3,9 +3,8 @@
   'userName' => 'Karin',
   'sitterId' => '1046',
   'profileImageUrl' => 'sa://user/image/2013/12/dsc00006_1.jpg',
-  'backdropImageUrl' => NULL,
   'sitterName' => 'Frenchi\'s Paradijs Bij Karin',
-  'shortDescription' => 'Ik ben Karin en woon samen met mijn man Michael in Hoboken. We hebben samen 2 hondjes (Kaya en Sookie) en een poes (Lilly).',
+  'profileDescription' => 'Ik ben Karin en woon samen met mijn man Michael in Hoboken. We hebben samen 2 hondjes (Kaya en Sookie) en een poes (Lilly).',
   'latitude' => 51.1605246,
   'longitude' => 4.349863,
   'reviewCount' => 17,
@@ -15,7 +14,6 @@
   'sitterSince' => '2013-12-12T09:42:35Z',
   'rates' => 
   array (
-    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (

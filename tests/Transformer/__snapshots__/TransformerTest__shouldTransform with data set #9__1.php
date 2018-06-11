@@ -3,9 +3,8 @@
   'userName' => 'Angelina Joly',
   'sitterId' => '16866',
   'profileImageUrl' => 'sa://user/image/2014/07/angela62_0.jpg',
-  'backdropImageUrl' => NULL,
   'sitterName' => 'Au Bonheur Des Chiens',
-  'shortDescription' => 'Jeune pensionnée qui adore les animaux, sutout les chiens, j\'accueillerai votre chien dans une ambiance familiale. Amour et câlins garantis.',
+  'profileDescription' => 'Jeune pensionnée qui adore les animaux, sutout les chiens, j\'accueillerai votre chien dans une ambiance familiale. Amour et câlins garantis.',
   'latitude' => 50.8354698,
   'longitude' => 4.3930937,
   'reviewCount' => 3,
@@ -15,7 +14,6 @@
   'sitterSince' => '2014-07-22T10:45:14Z',
   'rates' => 
   array (
-    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (

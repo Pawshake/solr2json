@@ -3,9 +3,8 @@
   'userName' => 'Isabel',
   'sitterId' => '1982',
   'profileImageUrl' => 'sa://pictures/picture-4346-1391208596.jpg',
-  'backdropImageUrl' => NULL,
   'sitterName' => 'T Gewassen Woefke',
-  'shortDescription' => 'Mijn naam is Isabel en ik ben gepassioneerd door honden, vooral de grotere rassen! Natuurlijk zijn de kleine lievelingen ook welkom.',
+  'profileDescription' => 'Mijn naam is Isabel en ik ben gepassioneerd door honden, vooral de grotere rassen! Natuurlijk zijn de kleine lievelingen ook welkom.',
   'latitude' => 51.0985726,
   'longitude' => 3.9778954,
   'reviewCount' => 12,
@@ -15,7 +14,6 @@
   'sitterSince' => '2014-01-25T07:54:11Z',
   'rates' => 
   array (
-    'homeVisits' => 9.0,
   ),
   'unavailable' => 
   array (
