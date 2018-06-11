@@ -1,22 +1,21 @@
 <?php return array (
-  'userId' => '1184374',
+  'userId' => '1185769',
   'userName' => 'Jessica',
-  'sitterId' => '2495323',
-  'profileImageUrl' => 'https://staging-static3.pawshakecdn.com/styles/square_thumbnail/sa/user/image/2018/03/cropit_1520505465.jpeg?itok=K8z6-pPi',
-  'sitterName' => 'Down Under Doggie Day Care',
-  'profileDescription' => 'HI There,My name is Jess and I have recently made the move from Down Under Australia to Scotland!',
-  'latitude' => 55.8470813,
-  'longitude' => -4.3791727,
+  'sitterId' => '2501716',
+  'profileImageUrl' => 'https://staging-static3.pawshakecdn.com/styles/square_thumbnail/sa/user/image/2018/03/cropit_1520631025.jpeg?itok=40l9dC8P',
+  'sitterName' => 'Overnight Kitty Sitter',
+  'profileDescription' => 'Hi!I just moved to Toronto from Sweden, leaving my beloved cat Sugar in the hands of a friend of mine.',
+  'latitude' => 43.6683941,
+  'longitude' => -79.4135388,
   'reviewCount' => 0,
   'starRating' => 0,
-  'sellerScore' => 24,
-  'currency' => 'GBP',
-  'sitterSince' => '2018-03-08T10:54:41Z',
+  'sellerScore' => 138,
+  'currency' => 'CAD',
+  'sitterSince' => '2018-03-09T22:23:37Z',
   'rates' => 
   array (
-    'dogWalking' => 9.0,
-    'homeVisits' => 10.0,
-    'sleepover' => 25.0,
+    'petBoarding' => 20.0,
+    'sleepover' => 50.0,
   ),
   'unavailable' => 
   array (
@@ -42,7 +41,7 @@
   'lastActiveOn' => NULL,
   'recurringGuests' => 0,
   'lastBookedOn' => NULL,
-  'lastContactedOn' => '2018-05-11T18:21:24+00:00',
+  'lastContactedOn' => '2018-05-11T10:55:53+00:00',
   'pendingBookings' => 0,
   'sitterPets' => 
   array (

@@ -1,21 +1,21 @@
 <?php return array (
-  'userId' => '1184374',
-  'userName' => 'Jessica',
-  'sitterId' => '2495323',
-  'profileImageUrl' => 'https://staging-static3.pawshakecdn.com/styles/square_thumbnail/sa/user/image/2018/03/cropit_1520505465.jpeg?itok=K8z6-pPi',
-  'sitterName' => 'Down Under Doggie Day Care',
-  'profileDescription' => 'HI There,My name is Jess and I have recently made the move from Down Under Australia to Scotland!',
-  'latitude' => 55.8470813,
-  'longitude' => -4.3791727,
+  'userId' => '1082570',
+  'userName' => 'Karen',
+  'sitterId' => '2523821',
+  'profileImageUrl' => 'https://staging-static3.pawshakecdn.com/styles/square_thumbnail/sa/user_pictures/cropit_1525460653.jpeg?itok=HdMnhhKJ',
+  'sitterName' => 'Pampered Pets',
+  'profileDescription' => 'Hey pet lovers. I work Mon - Fri but have a spare week or two off here and there.',
+  'latitude' => -37.892241,
+  'longitude' => 145.06635,
   'reviewCount' => 0,
   'starRating' => 0,
-  'sellerScore' => 24,
-  'currency' => 'GBP',
-  'sitterSince' => '2018-03-08T10:54:41Z',
+  'sellerScore' => 103,
+  'currency' => 'AUD',
+  'sitterSince' => '2018-03-14T08:52:44Z',
   'rates' => 
   array (
-    'dogWalking' => 9.0,
-    'homeVisits' => 10.0,
+    'dogWalking' => 15.0,
+    'homeVisits' => 15.0,
     'sleepover' => 25.0,
   ),
   'unavailable' => 
@@ -42,13 +42,14 @@
   'lastActiveOn' => NULL,
   'recurringGuests' => 0,
   'lastBookedOn' => NULL,
-  'lastContactedOn' => '2018-05-11T18:21:24+00:00',
+  'lastContactedOn' => '2018-05-08T12:27:15+00:00',
   'pendingBookings' => 0,
   'sitterPets' => 
   array (
+    'dogs' => 1,
   ),
-  'sitterPetBreed' => NULL,
-  'sitterPetName' => NULL,
+  'sitterPetBreed' => 'Terrier X',
+  'sitterPetName' => 'Disco',
   'responseTimeInHours' => 0,
   'capacity' => 
   array (
@@ -60,6 +61,6 @@
     'smallAnimal' => 0,
   ),
   'sitterHasFullyFencedBackyard' => 0,
-  'sitterHasNoDog' => true,
+  'sitterHasNoDog' => false,
   'sitterHasNoChildren' => true,
 );

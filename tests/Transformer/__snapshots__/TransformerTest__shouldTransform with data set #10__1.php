@@ -1,22 +1,22 @@
 <?php return array (
-  'userId' => '1184374',
+  'userId' => '1186771',
   'userName' => 'Jessica',
-  'sitterId' => '2495323',
-  'profileImageUrl' => 'https://staging-static3.pawshakecdn.com/styles/square_thumbnail/sa/user/image/2018/03/cropit_1520505465.jpeg?itok=K8z6-pPi',
-  'sitterName' => 'Down Under Doggie Day Care',
-  'profileDescription' => 'HI There,My name is Jess and I have recently made the move from Down Under Australia to Scotland!',
-  'latitude' => 55.8470813,
-  'longitude' => -4.3791727,
+  'sitterId' => '2500708',
+  'profileImageUrl' => 'https://staging-static1.pawshakecdn.com/styles/square_thumbnail/sa/user/image/2018/03/cropit_1520608949.jpeg?itok=6QaysuiI',
+  'sitterName' => 'Studente Op Zoek Naar Knuffelmaatje!',
+  'profileDescription' => 'Ik ben Jessica, 24 jaar en doe een MSc studie Aardwetenschappen. Ik ben opgegroeid in een huis vol dieren en heb dit altijd enorm leuk gevonden.',
+  'latitude' => 52.0979945,
+  'longitude' => 5.1324813,
   'reviewCount' => 0,
   'starRating' => 0,
-  'sellerScore' => 24,
-  'currency' => 'GBP',
-  'sitterSince' => '2018-03-08T10:54:41Z',
+  'sellerScore' => 87,
+  'currency' => 'EUR',
+  'sitterSince' => '2018-03-09T16:53:57Z',
   'rates' => 
   array (
-    'dogWalking' => 9.0,
-    'homeVisits' => 10.0,
-    'sleepover' => 25.0,
+    'dogWalking' => 10.0,
+    'homeVisits' => 12.0,
+    'sleepover' => 30.0,
   ),
   'unavailable' => 
   array (
@@ -42,7 +42,7 @@
   'lastActiveOn' => NULL,
   'recurringGuests' => 0,
   'lastBookedOn' => NULL,
-  'lastContactedOn' => '2018-05-11T18:21:24+00:00',
+  'lastContactedOn' => '2018-04-16T20:18:25+00:00',
   'pendingBookings' => 0,
   'sitterPets' => 
   array (
