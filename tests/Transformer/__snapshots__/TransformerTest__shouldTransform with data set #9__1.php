@@ -1,33 +1,24 @@
 <?php return array (
-  'userId' => '1185436',
-  'userName' => 'Maddie',
-  'sitterId' => '2497384',
-  'profileImageUrl' => 'https://staging-static3.pawshakecdn.com/styles/square_thumbnail/sa/user/image/2018/03/cropit_1520544824.jpeg?itok=C2xqY9qs',
-  'sitterName' => 'Maddie\'s Doggie Daycare',
-  'profileDescription' => 'I am 19 years old and currently a student studying Primary Education.I have been an animal lover for as long as I can remember.',
-  'latitude' => 51.5996589,
-  'longitude' => 0.6130964,
-  'reviewCount' => 0,
-  'starRating' => 0,
-  'sellerScore' => 284,
-  'currency' => 'GBP',
-  'sitterSince' => '2018-03-08T21:48:02Z',
+  'userId' => '23355',
+  'userName' => 'Angelina Joly',
+  'sitterId' => '16866',
+  'profileImageUrl' => 'sa://user/image/2014/07/angela62_0.jpg',
+  'sitterName' => 'Au Bonheur Des Chiens',
+  'profileDescription' => 'Jeune pensionnée qui adore les animaux, sutout les chiens, j\'accueillerai votre chien dans une ambiance familiale. Amour et câlins garantis.',
+  'latitude' => 50.8354698,
+  'longitude' => 4.3930937,
+  'reviewCount' => 3,
+  'starRating' => 5,
+  'sellerScore' => 500,
+  'currency' => 'EUR',
+  'sitterSince' => '2014-07-22T10:45:14Z',
   'rates' => 
   array (
-    'dogWalking' => 12.0,
-    'doggyDayCare' => 20.0,
-    'homeVisits' => 10.0,
-    'sleepover' => 40.0,
   ),
   'unavailable' => 
   array (
     'general' => 
     array (
-      0 => '2018-07-16T00:00:00Z',
-      1 => '2018-07-17T00:00:00Z',
-      2 => '2018-07-18T00:00:00Z',
-      3 => '2018-07-19T00:00:00Z',
-      4 => '2018-07-20T00:00:00Z',
     ),
     'petBoarding' => 
     array (
@@ -46,27 +37,27 @@
     ),
   ),
   'lastActiveOn' => NULL,
-  'recurringGuests' => 0,
-  'lastBookedOn' => NULL,
-  'lastContactedOn' => '2018-05-23T16:56:35+00:00',
+  'recurringGuests' => 1,
+  'lastBookedOn' => '2017-08-28T17:54:08+00:00',
+  'lastContactedOn' => '2017-09-09T06:05:16+00:00',
   'pendingBookings' => 0,
   'sitterPets' => 
   array (
     'dogs' => 1,
   ),
-  'sitterPetBreed' => 'bulldog',
-  'sitterPetName' => 'Charlie',
+  'sitterPetBreed' => 'spitz nain',
+  'sitterPetName' => 'Bijou',
   'responseTimeInHours' => 0,
   'capacity' => 
   array (
     'smallDog' => 10,
     'mediumDog' => 10,
-    'largeDog' => 10,
-    'giantDog' => 10,
+    'largeDog' => 0,
+    'giantDog' => 0,
     'cat' => 10,
     'smallAnimal' => 10,
   ),
-  'sitterHasFullyFencedBackyard' => 0,
+  'sitterHasFullyFencedBackyard' => true,
   'sitterHasNoDog' => false,
   'sitterHasNoChildren' => true,
 );

@@ -1,22 +1,20 @@
 <?php return array (
-  'userId' => '1183384',
-  'userName' => 'Mari',
-  'sitterId' => '2492839',
-  'profileImageUrl' => 'https://staging-static1.pawshakecdn.com/styles/square_thumbnail/sa/user/image/2018/03/cropit_1520461269.jpeg?itok=f-2j_tyZ',
-  'sitterName' => 'Dog Sitter In Amsterdam New West',
-  'profileDescription' => 'Since little, I have been a dog lover but I do not have dogs with me for years because I have been relocating myself. My great grandfather was a vet.',
-  'latitude' => 52.3491502,
-  'longitude' => 4.8324711,
-  'reviewCount' => 0,
-  'starRating' => 0,
-  'sellerScore' => 133,
-  'currency' => 'EUR',
-  'sitterSince' => '2018-03-07T22:31:27Z',
+  'userId' => '10341',
+  'userName' => 'Nathalie & Steven',
+  'sitterId' => '6164',
+  'profileImageUrl' => 'sa://facebook/2014/04/996928_10151640637533985_821083941_n.jpg',
+  'sitterName' => 'Chez Heidi',
+  'profileDescription' => 'Nous sommes situés à Québec près du Domaine Maizeret. Il me fera plaisir de me déplacer et prendre soin de votre animal durant votre absence.',
+  'latitude' => 46.8405419,
+  'longitude' => -71.2155154,
+  'reviewCount' => 7,
+  'starRating' => 5,
+  'sellerScore' => 488,
+  'currency' => 'CAD',
+  'sitterSince' => '2014-04-28T18:54:29Z',
   'rates' => 
   array (
-    'dogWalking' => 10.0,
-    'homeVisits' => 10.0,
-    'sleepover' => 30.0,
+    'homeVisits' => 17.0,
   ),
   'unavailable' => 
   array (
@@ -40,15 +38,16 @@
     ),
   ),
   'lastActiveOn' => NULL,
-  'recurringGuests' => 0,
-  'lastBookedOn' => NULL,
-  'lastContactedOn' => NULL,
+  'recurringGuests' => 2,
+  'lastBookedOn' => '2015-05-31T22:26:09+00:00',
+  'lastContactedOn' => '2017-08-04T15:08:04+00:00',
   'pendingBookings' => 0,
   'sitterPets' => 
   array (
+    'dogs' => 2,
   ),
-  'sitterPetBreed' => NULL,
-  'sitterPetName' => NULL,
+  'sitterPetBreed' => 'Lhassa Apso',
+  'sitterPetName' => 'Loulou',
   'responseTimeInHours' => 0,
   'capacity' => 
   array (
@@ -59,7 +58,7 @@
     'cat' => 0,
     'smallAnimal' => 0,
   ),
-  'sitterHasFullyFencedBackyard' => 0,
-  'sitterHasNoDog' => true,
+  'sitterHasFullyFencedBackyard' => false,
+  'sitterHasNoDog' => false,
   'sitterHasNoChildren' => true,
 );
