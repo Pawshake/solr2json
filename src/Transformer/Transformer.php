@@ -67,6 +67,7 @@ class Transformer
             'starRating' => (int)ceil((int)$data['fs_rating'] / 20),
             'sellerScore' => (int)(isset($data['is_seller_score']) ? $data['is_seller_score'] : 0),
             'currency' => (string)$data['ss_currency_raw'],
+            'locale' => (string)$data['ss_language'],
             'sitterSince' => (string)$data['ds_created'],
             'rates' => $serviceRates,
             'unavailable' => [
